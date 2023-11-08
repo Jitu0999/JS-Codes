@@ -38,8 +38,15 @@ console.log(typeof m)
 console.log(typeof n)
 console.log(typeof o)
 
+/*
+*************** OBJECTS **************
+Non primitive DAta type
+*/
 
-// A. Numbers
-var num1 = 123;
-var num2 = 12.30;
-//console.log(num1 + num2);
+const item = {
+    'Jitu': true,
+    'Shubham': false,
+    'Rohan': 77,
+    'Ramesh': undefined
+}
+console.log(item['Rohan'])
