@@ -73,7 +73,7 @@ var c = b;
 // c -= 2;
 // c *= 2;
 // c /= 2;
-// console.log(c);
+ console.log(c);
 
 //Comparison Operators.
 var x = 55;
