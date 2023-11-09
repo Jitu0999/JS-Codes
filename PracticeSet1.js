@@ -12,5 +12,14 @@ Q2. Use typeof operator to find the datatype of the string in last question ?
 console.log(typeof(a+b)) // string
 
 /*
-Q3. 
+Q3. Create a const object in javascript can you change it to hold a number later ?
 */
+const x = {
+    name: 'Jitu',
+    section: 1,
+    isPrincipal: false
+}
+x = 55
+// TypeError: Assignment to constant variable. at Object.<anonymous>
+
+
