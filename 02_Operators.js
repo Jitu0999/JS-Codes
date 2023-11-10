@@ -1,10 +1,22 @@
 /* 
 ************ OPERATORS IN JAVASCRIPT. **************
-Airthmetic operators.
 */ 
+let i = 10;
+let j = 4;
+console.log('i+j =', i+j)
+console.log('i-j =', i-j)
+console.log('i/j =', i/j)
+console.log('i%j =', i%j)
+console.log('i*j =', i*j)
+console.log('i**j =', i**j)
+console.log('i++ =', i++)
+console.log('i-- =', i--)
+console.log('i=', i)
 
-var a = 100;
-var b = 10;
+
+//Airthmetic operators.
+let a = 100;
+let b = 10;
 console.log('The value of a+b is', a+b);
 console.log('The value of a-b is', a-b);
 console.log('The value of a*b is', a*b);
