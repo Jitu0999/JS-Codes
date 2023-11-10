@@ -1,5 +1,8 @@
-// OPERATORS IN JAVASCRIPT.
-// Airthmetic operators.
+/* 
+************ OPERATORS IN JAVASCRIPT. **************
+Airthmetic operators.
+*/ 
+
 var a = 100;
 var b = 10;
 console.log('The value of a+b is', a+b);
