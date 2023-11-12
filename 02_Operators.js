@@ -6,10 +6,11 @@ let j = 4;
 console.log('i+j =', i+j)
 console.log('i-j =', i-j)
 console.log('i/j =', i/j)
-console.log('i%j =', i%j)
+console.log('i % j =', i%j)
 console.log('i*j =', i*j)
 console.log('i**j =', i**j)
 console.log('i++ =', i++)
+console.log('++i =', ++i)
 console.log('i-- =', i--)
 console.log('i=', i)
 
