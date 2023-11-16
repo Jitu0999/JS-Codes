@@ -16,8 +16,8 @@ console.log('i=', i)
 
 
 //Airthmetic operators.
-let a = 100;
-let b = 10;
+let a = 10;
+let b = 4;
 console.log('The value of a+b is', a+b);
 console.log('The value of a-b is', a-b);
 console.log('The value of a*b is', a*b);
