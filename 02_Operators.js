@@ -1,6 +1,7 @@
 /* 
 ************ OPERATORS IN JAVASCRIPT. **************
 */ 
+//Airthmetic operators.
 let i = 10;
 let j = 4;
 console.log('i+j =', i+j)
@@ -15,9 +16,9 @@ console.log('i-- =', i--)
 console.log('i=', i)
 
 
-//Airthmetic operators.
-let a = 10;
-let b = 4;
+
+let a = 50;
+let b = 5;
 console.log('The value of a+b is', a+b);
 console.log('The value of a-b is', a-b);
 console.log('The value of a*b is', a*b);
