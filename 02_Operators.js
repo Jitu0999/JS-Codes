@@ -35,7 +35,7 @@ var c = b;
 var x = 55;
 var y = 66;
 console.log(x == y);
-//console.log(x >= y);
+console.log(x >= y);
 //console.log(x <= y);
 //console.log(x > y);
 //console.log(x < y);
