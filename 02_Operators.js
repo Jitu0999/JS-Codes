@@ -52,3 +52,6 @@ let m=6;
 // console.log(!true)
 
 // --------Conditional Operators.
+let g=5, n=8;
+if (g<n)
+console.log('True')
