@@ -52,10 +52,18 @@ let m=6;
 // console.log(!true)
 
 // --------Conditional Operators.
-let g=5, n=8;
-if (g>n){
-console.log('True');
+let age1 = 10, age2 = 15, age3 = 20, age4 = 30;
+if (age1<10){
+console.log('Invalid Age.');
+}
+else if(age1<age2){
+    console.log('Your are child, you can not drive.');
+}else if(age2<age3){
+    console.log('Your are not in under 18.');
+}
+else if(age3<age4 && age2<age3){
+    console.log('Your can drive.');
 }
 else{
-    console.log('False')
+    console.log('You can drive as you are above 18');
 }
