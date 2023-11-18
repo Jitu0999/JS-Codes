@@ -46,7 +46,7 @@ var y = 66;
 //---------Logical Operators.
 let l=5;
 let m=6;
-// console.log(l<m && l==5)
+ console.log(l<m && l==5)
 // console.log(l>m || l==5)
 // console.log(!false)
 // console.log(!true)
