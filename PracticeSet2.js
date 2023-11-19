@@ -1,5 +1,5 @@
 /*
-Q1. 
+Q1. Use logical operator to find wether the age of x person lies between 10 and 20?
 */
 let age = 50;
 if(age>10 && age<20){
