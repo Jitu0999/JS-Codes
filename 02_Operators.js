@@ -67,3 +67,6 @@ else if(age3<age4 && age2<age3){
 else{
     console.log('You can drive as you are above 18');
 }
+
+//---------Switch Case
+
