@@ -82,3 +82,18 @@ switch (expr) {
   default:
     console.log(`Sorry, we are out of ${expr}.`);
 }
+
+//-------------- Ternary Operator.
+function getFee(isMember) {
+  return isMember ? '20.00' : '10.00';
+}
+
+console.log(getFee(true));
+// Expected output: "20.00"
+
+console.log(getFee(false));
+// Expected output: "10.00"
+
+console.log(getFee(null));
+// Expected output: "10.00"
+
