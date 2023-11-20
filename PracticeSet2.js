@@ -12,7 +12,7 @@ else{
 /*
 Q2. Demonstrate the use of switch case statement in javaScript?
 */
-let froutPrice = 25;
+let froutPrice = 55;
 switch (froutPrice){
     case 55:
         console.log('Mangoes 55 Rs/Kg')
