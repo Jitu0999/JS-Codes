@@ -12,3 +12,16 @@ else{
 /*
 Q2. Demonstrate the use of switch case statement in javaScript?
 */
+let froutPrice = 25;
+switch (froutPrice){
+    case 55:
+        console.log('Mangoes 55 Rs/Kg')
+        break
+    case 50:
+        console.log('Banana 55 Rs/Dazn')
+        break
+    case 60:
+        console.log('Apple 60 Rs/Kg')
+    default:
+        console.log('Frout is not available')
+}
