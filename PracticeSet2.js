@@ -36,3 +36,14 @@ if (num % 2 == 0 && num % 3 == 0){
 else{
     console.log('Your number is not divisible by 2 and 3')
 }
+
+/*
+Q3. Write a JavaScript Program to find whether a number is divisible by either 2 and 3?
+*/
+let num1 = 6;
+if (num1 % 2 == 0 || num1 % 3 == 0){
+    console.log('Your number is divisible by 2')
+}
+else{
+    console.log('Your number is divisible by 3')
+}
