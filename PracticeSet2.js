@@ -8,3 +8,7 @@ if(age>10 && age<20){
 else{
     console.log('Your age doesnot lies between 10 and 20')
 }
+
+/*
+Q2. Demonstrate the use of switch case statement in javaScript?
+*/
