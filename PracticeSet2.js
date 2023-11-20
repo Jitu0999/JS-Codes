@@ -25,3 +25,7 @@ switch (froutPrice){
     default:
         console.log('Frout is not available')
 }
+
+/*
+Q3. Write a JavaScript Program to find whether a number is divisible by 2 and 3?
+*/
