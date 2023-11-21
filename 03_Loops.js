@@ -21,6 +21,12 @@ let obj = {
     Ramesh: 70,
     Harish: 60
 }
+// For in loop
 for(let a in obj){
     console.log('Marks of ' + a + ' is ' + obj[a])
+}
+
+// For of loop (Must be iterable array or string form)
+for (let b of "India"){
+    console.log(b)
 }
