@@ -6,8 +6,10 @@ for (let i = 0; i<5; i++){
 
 // Program to add first n natural numbers.
 let sum = 0;
-let n = 3;
+let n = 4;
 for (let i=0; i<n; i++){
     sum += (i+1)
+    console.log((i+1), "+")
 }
 console.log('Sum of first '+ n +' Natural numbers is '+ sum)
+
