@@ -46,7 +46,7 @@ while(i<p){
 
 // ********* do-while loop *********
 let q = 2;
-let j = 0;
+let j = 8;
 do{
     console.log('do-while loop ' + j)
     j++;
