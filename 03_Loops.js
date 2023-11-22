@@ -40,6 +40,6 @@ for (let b of "India"){
 let p = 10;
 let i = 0;
 while(i<p){
-    console.log(i)
+    console.log("While loop " + i)
     i++;
 }
