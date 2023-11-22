@@ -45,9 +45,9 @@ while(i<p){
 }
 
 // ********* do-while loop *********
-let q = 10;
-let j = 5;
+let q = 2;
+let j = 0;
 do{
-    console.log('do-while loop ' + i)
-    i++;
-}while(i<q)
+    console.log('do-while loop ' + j)
+    j++;
+}while(j<q)
