@@ -1,3 +1,5 @@
+// ******** For Loop *********
+
 /*
 for (let i = 0; i<5; i++){
     console.log(i)
@@ -31,3 +33,7 @@ for(let a in obj){
 for (let b of "India"){
     console.log(b)
 }
+
+
+// ********* While Loop *********
+
