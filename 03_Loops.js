@@ -1,4 +1,4 @@
-// ******** For Loop *********
+//  ******** For Loop *********
 
 /*
 for (let i = 0; i<5; i++){
@@ -37,3 +37,9 @@ for (let b of "India"){
 
 // ********* While Loop *********
 
+let p = 10;
+let i = 0;
+while(i<p){
+    console.log(i)
+    i++;
+}
