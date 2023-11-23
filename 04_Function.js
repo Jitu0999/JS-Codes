@@ -1,8 +1,18 @@
+const hello = ()=>{
+    console.log('Hey how are you?? I am fine yaar..')
+    return 'Hi..'
+}
+let v = hello();
+console.log(v)
+
+
+
+/*
 const sum = (p, q)=>{
     return p + q
 }
 console.log(sum(5, 4))
-
+*/
 
 /*
 function onePlusAvg(x, y){
