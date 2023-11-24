@@ -11,7 +11,12 @@ for(let i=0; i<Object.keys(marks).length; i++){
     console.log('The marks of ' + Object.keys(marks)[i] + ' are ' + marks[Object.keys(marks)[i]])
 }
 
-// Method 2.
+/*
+Q.2 Write a program in Q1 using for in loop?
+*/
+
 for(let key in marks){
-    console.log('METHOD2, The marks of ' + key + ' are ' + marks[key])
+    console.log('Ans-2, The marks of ' + key + ' are ' + marks[key])
 }
+
+
