@@ -19,4 +19,7 @@ for(let key in marks){
     console.log('Ans-2, The marks of ' + key + ' are ' + marks[key])
 }
 
+/*
+Q.3 write a program to print "try again" until the user enters the correct number?
+*/
 
