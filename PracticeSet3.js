@@ -21,7 +21,7 @@ for(let key in marks){
 
 /*
 Q.3 write a program to print "try again" until the user enters the correct number?
-*/
+
 let cNumber = 45
 let i
 while (i != cNumber){
@@ -29,8 +29,13 @@ while (i != cNumber){
     i = prompt('Enter a number : ')
 }
 console.log('You have entered a correct number')
+*/
+
 
 /*
 Q.4 Write a function to find mean of 5 numbers?
 */
-
+const mean = (a, b, c, d)=>{
+    return(a+b+c+d)/4
+}
+console.log(mean(4, 5, 6, 7))
