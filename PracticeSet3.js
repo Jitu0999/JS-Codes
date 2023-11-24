@@ -22,4 +22,10 @@ for(let key in marks){
 /*
 Q.3 write a program to print "try again" until the user enters the correct number?
 */
-
+let cNumber = 45
+let i
+while (i != cNumber){
+    console.log('try again')
+    i = prompt('Enter a number : ')
+}
+console.log('You have entered a correct number')
