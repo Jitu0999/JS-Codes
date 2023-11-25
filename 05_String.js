@@ -14,4 +14,5 @@ console.log(sentence)
 // Escape sequence characters.
 let fruit = 'Bana\'na'
 console.log(fruit)
-console.log(fruit.length)
+//let fruit = "Bana\"na"
+//console.log(fruit.length)
