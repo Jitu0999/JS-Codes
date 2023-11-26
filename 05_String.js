@@ -16,3 +16,9 @@ let fruit = 'Bana\'na'
 console.log(fruit)
 //let fruit = "Bana\"na"
 //console.log(fruit.length)
+
+// ***** Methods *****
+
+let name1 = 'Ajay'
+console.log(name1.toUpperCase())
+console.log(name1.toLowerCase())
