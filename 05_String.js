@@ -30,3 +30,4 @@ let friend1 = 'Ritu'
 console.log(name1.concat(' is a friend of ', friend, ' Ok'))
 let friend2 = '      Meena     '
 console.log(friend2)
+console.log(friend2.trim())
