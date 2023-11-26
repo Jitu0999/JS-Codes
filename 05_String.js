@@ -23,4 +23,4 @@ let name1 = 'Ajay'
 console.log(name1.length)
 console.log(name1.toUpperCase())
 console.log(name1.toLowerCase())
-console,log(name1.slice(2, 4))
+console.log(name1.slice(2, 4))
