@@ -26,8 +26,10 @@ let name1 = 'Ajay GGGGGGGGGGGGG'
 //console.log(name1.slice(2, 4))
 //console.log(name1.slice(2))
 //console.log(name1.replace('Aj', 'Lk'))
-let friend1 = 'Ritu'
-console.log(name1.concat(' is a friend of ', friend, ' Ok'))
-let friend2 = '      Meena     '
-console.log(friend2)
-console.log(friend2.trim())
+//let friend1 = 'Ritu'
+//console.log(name1.concat(' is a friend of ', friend, ' Ok'))
+//let friend2 = '      Meena     '
+//console.log(friend2)
+//console.log(friend2.trim())
+let friend3 = 'Dinesh'
+console.log(friend3[0])
