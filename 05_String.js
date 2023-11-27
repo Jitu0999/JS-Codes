@@ -32,8 +32,10 @@ let name1 = 'Ajay GGGGGGGGGGGGG'
 //console.log(friend2)
 //console.log(friend2.trim())
 let friend3 = 'Dinesh'
+let friend4 = 'Ramesh ' + 'Naresh'
 console.log(friend3[0])
 console.log(friend3[1])
 console.log(friend3[2])
+console.log(friend4)
 
 
