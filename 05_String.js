@@ -33,3 +33,7 @@ let name1 = 'Ajay GGGGGGGGGGGGG'
 //console.log(friend2.trim())
 let friend3 = 'Dinesh'
 console.log(friend3[0])
+console.log(friend3[1])
+
+
+
