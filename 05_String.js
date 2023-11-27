@@ -38,4 +38,15 @@ console.log(friend3[1])
 console.log(friend3[2])
 console.log(friend4)
 
+// Use a for loop to print a string?
 
+let str1 = 'Delhi ';
+for(i=0; i<str1.length; i++){
+    console.log(str1[i])
+}
+
+// use of for in.
+let str = 'India';
+for (let i in str){
+    console.log(str[i])
+}
