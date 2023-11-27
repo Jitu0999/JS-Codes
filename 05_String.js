@@ -34,6 +34,6 @@ let name1 = 'Ajay GGGGGGGGGGGGG'
 let friend3 = 'Dinesh'
 console.log(friend3[0])
 console.log(friend3[1])
-
+console.log(friend3[2])
 
 
