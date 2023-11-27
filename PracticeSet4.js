@@ -40,6 +40,11 @@ let amount1 = Number.parseInt(str3.slice(15))
 console.log(amount)
 console.log(typeof amount1)
 
+/*
+Q.5 Try to change 4th characters of a given a string were you able to do it?
+*/
 
-
+let friend = "Seema";
+friend[3] = "R"
+console.log(friend)// friend is not changed, because string is immutable.
 
