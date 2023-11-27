@@ -25,3 +25,11 @@ console.log(str1.startsWith('Sat', 3));
 console.log(str1.endsWith('ans'));
 console.log(str1.endsWith('ans', 3));
 
+/*
+Q.3 Write a program to convert a given string to lower case?
+*/
+
+const str2 = 'My Great India.';
+console.log(str2.toLowerCase())
+
+
