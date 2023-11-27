@@ -28,8 +28,18 @@ console.log(str1.endsWith('ans', 3));
 /*
 Q.3 Write a program to convert a given string to lower case?
 */
-
 const str2 = 'My Great India.';
 console.log(str2.toLowerCase())
+
+/*
+Q.4 Extract the amount out of this string "Please give Rs. 1000"?
+*/
+let str3 = "Please give Rs.1000";
+let amount = str3.slice("Please give Rs.".length)
+let amount1 = Number.parseInt(str3.slice(15))
+console.log(amount)
+console.log(typeof amount1)
+
+
 
 
