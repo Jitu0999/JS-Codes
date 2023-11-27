@@ -14,3 +14,12 @@ console.log(
     sentence.includes(word) ? 'is' : 'is not'
   } in the sentence`,
 );
+
+/*
+Q.2 Explore the includes, startsWith & endsWith function of a string.
+*/
+
+const str1 = 'Saturday night plans';
+console.log(str1.startsWith('Sat'));
+console.log(str1.startsWith('Sat', 3));
+
