@@ -39,7 +39,7 @@ console.log(friend3[2])
 console.log(friend4)
 
 // Use a for loop to print a string?
-
+// using normal for loop.
 let str1 = 'Delhi ';
 for(i=0; i<str1.length; i++){
     console.log(str1[i])
