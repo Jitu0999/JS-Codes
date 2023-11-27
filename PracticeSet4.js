@@ -22,4 +22,6 @@ Q.2 Explore the includes, startsWith & endsWith function of a string.
 const str1 = 'Saturday night plans';
 console.log(str1.startsWith('Sat'));
 console.log(str1.startsWith('Sat', 3));
+console.log(str1.endsWith('ans'));
+console.log(str1.endsWith('ans', 3));
 
