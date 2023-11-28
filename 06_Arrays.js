@@ -42,13 +42,24 @@ console.log(newArray)
 console.log(num1, num2)
 
 // Sort method.
-let ar = [554, 44, 22, 934, 22, 40, 20, 55, 22, 21]
-ar.sort()// sort by alphabeticaly
-console.log(ar)
+//let ar = [554, 44, 22, 934, 22, 40, 20, 55, 22, 21]
+//ar.sort()// sort by alphabeticaly
+//console.log(ar)
 
-let compare = (x, y)=>{
+/*let compare = (x, y)=>{
     return x-y;
 }
 let arr = [330, 8, 55, 400, 50, 1, 30, 55]
 arr.sort(compare) // in to ascending order.
-console.log(arr)
+console.log(arr);
+arr.reverse() // 
+console.log(arr);
+*/
+
+// Splice and slice
+let arr = [330, 8, 55, 400, 50, 1, 30, 55]
+//arr.splice(2, 3, 1000, 2000, 3000, 4000)
+//console.log(arr)
+
+let newArr = arr.slice(3, 5)
+console.log(newArr)
