@@ -27,8 +27,14 @@ console.log(num)
 //console.log(num, r)
 //let r = num.shift()// Remove an element from the start of the array.
 //console.log(r, num)
-let r = num.unshift(80)// Add an element from beginning of the array.
-console.log(r, num)
+//let r = num.unshift(80)// Add an element from beginning of the array.
+//console.log(r, num)
+let num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+delete num1[0]
+console.log(num1);
+console.log(num1.length)
+
+
 
 
 
