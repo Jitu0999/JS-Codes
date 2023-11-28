@@ -23,7 +23,9 @@ num.pop() // Updates the original array and returns the pop value.
 console.log(num)
 //let r = num.pop()// Returns the popped element.
 //console.log(num, r)
-let r = num.push(55)// push returns the new array length.
-console.log(num, r)
+//let r = num.push(55)// push returns the new array length.
+//console.log(num, r)
+let r = num.shift()// Remove an element from the start of the array.
+console.log(r, num)
 
 
