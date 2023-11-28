@@ -12,3 +12,12 @@ marks_class_12[6] = 89 // Adding a new value to the array.
 marks_class_12[0] = 88 // Changing the value of an array.
 console.log("Updated Arrays are : " + marks_class_12)
 console.log(typeof marks_class_12)
+
+// ******** Methods *********
+let num = [1, 2, 3, 4, 5]
+let b = num.toString() // b is now a string.
+console.log(b, typeof b);
+let c = num.join(" and ") // Use to add.
+console.log(c, typeof c)
+
+
