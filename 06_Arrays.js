@@ -21,7 +21,9 @@ let c = num.join(" and ") // Use to add.
 console.log(c, typeof c)
 num.pop() // Updates the original array and returns the pop value.
 console.log(num)
-let r = num.pop()// Returns the popped element.
+//let r = num.pop()// Returns the popped element.
+//console.log(num, r)
+let r = num.push(55)// push returns the new array length.
 console.log(num, r)
 
 
