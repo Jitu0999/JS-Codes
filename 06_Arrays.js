@@ -30,10 +30,15 @@ console.log(num)
 //let r = num.unshift(80)// Add an element from beginning of the array.
 //console.log(r, num)
 let num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-console.log(num1.length)
-delete num1[0]
-console.log(num1);
-console.log(num1.length)
+let num2 = [11, 12, 13, 14, 15, 16, 17, 18, 19]
+//console.log(num1.length)
+//delete num1[0]
+//console.log(num1);
+//console.log(num1.length)
+
+let newArray = num1.concat(num2)
+console.log(newArray)
+console.log(num1, num2)
 
 
 
