@@ -31,16 +31,17 @@ console.log(num)
 //console.log(r, num)
 let num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 let num2 = [11, 12, 13, 14, 15, 16, 17, 18, 19]
+let num3 = [21, 22, 23, 24, 25, 26, 27, 28, 29]
 //console.log(num1.length)
 //delete num1[0]
 //console.log(num1);
 //console.log(num1.length)
 
-let newArray = num1.concat(num2)
+let newArray = num1.concat(num2, num3)
 console.log(newArray)
 console.log(num1, num2)
 
-
-
-
-
+// Sort method.
+let ar = [554, 44, 22, 934, 40, 20, 55]
+ar.sort()
+console.log(ar)
