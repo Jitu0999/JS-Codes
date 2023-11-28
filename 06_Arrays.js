@@ -42,6 +42,6 @@ console.log(newArray)
 console.log(num1, num2)
 
 // Sort method.
-let ar = [554, 44, 22, 934, 40, 20, 55]
-ar.sort()
+let ar = [554, 44, 22, 934, 22, 40, 20, 55, 22, 21]
+ar.sort()// sort by alphabeticaly
 console.log(ar)
