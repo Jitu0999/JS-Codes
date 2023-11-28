@@ -9,4 +9,6 @@ console.log(marks_class_12[5])
 console.log(marks_class_12[6]) // Will be undefined because index 6 does not exist.
 console.log("The length of marks class 12th is :", marks_class_12.length)
 marks_class_12[6] = 89 // Adding a new value to the array.
+marks_class_12[0] = 88 // Changing the value of an array.
 console.log(marks_class_12[6])
+console.log(marks_class_12[0])
