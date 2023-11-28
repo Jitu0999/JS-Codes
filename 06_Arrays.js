@@ -25,7 +25,10 @@ console.log(num)
 //console.log(num, r)
 //let r = num.push(55)// push returns the new array length.
 //console.log(num, r)
-let r = num.shift()// Remove an element from the start of the array.
+//let r = num.shift()// Remove an element from the start of the array.
+//console.log(r, num)
+let r = num.unshift(80)// Add an element from beginning of the array.
 console.log(r, num)
+
 
 
