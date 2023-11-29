@@ -84,3 +84,8 @@ console.log(arr0)
 for(let i of num){
     console.log(i)
 }
+
+// for...in
+for(let item of num){
+    console.log(item)
+}
