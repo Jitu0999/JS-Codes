@@ -80,10 +80,11 @@ let name = "Raju"
 let arr0 = Array.from(name)
 console.log(arr0)
 
-// for...of
+/* for...of
 for(let i of num){
     console.log(i)
 }
+*/
 
 /* for...in
 let item = ["Chair", "Bed", "Fan", "Moter", "Mobile"]
