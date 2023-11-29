@@ -75,10 +75,11 @@ num4.forEach((element)=> {
     console.log(element * element)
 })
 
-// array.from
+/* array.from
 let name = "Raju"
 let arr0 = Array.from(name)
 console.log(arr0)
+*/
 
 /* for...of
 for(let i of num){
