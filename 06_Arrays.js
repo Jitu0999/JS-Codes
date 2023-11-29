@@ -70,10 +70,11 @@ let num4 = [3, 5, 1, 2, 4]
 //for (let i=0; i<num4.length; i++){
 //   console.log(num4[i])
 //}
-// foreach loop
+/* foreach loop
 num4.forEach((element)=> {
     console.log(element * element)
 })
+*/
 
 /* array.from
 let name = "Raju"
