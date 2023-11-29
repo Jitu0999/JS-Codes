@@ -66,7 +66,11 @@ let newArr = arr.slice(3, 5)
 
 // Looping with Array
 
-let num4 = [3, 54, 1, 2, 4]
-for (let i=0; i<num4.length; i++){
-    console.log(num4[i])
-}
+let num4 = [3, 5, 1, 2, 4]
+//for (let i=0; i<num4.length; i++){
+//   console.log(num4[i])
+//}
+
+num4.forEach((element)=> {
+    console.log(element * element)
+})
