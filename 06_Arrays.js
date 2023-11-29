@@ -62,4 +62,11 @@ let arr = [330, 8, 55, 400, 50, 1, 30, 55]
 //console.log(arr)
 
 let newArr = arr.slice(3, 5)
-console.log(newArr)
+//console.log(newArr)
+
+// Looping with Array
+
+let num4 = [3, 54, 1, 2, 4]
+for (let i=0; i<num4.length; i++){
+    console.log(num4[i])
+}
