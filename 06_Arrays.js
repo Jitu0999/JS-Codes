@@ -86,6 +86,7 @@ for(let i of num){
 }
 
 // for...in
-for(let item of num){
-    console.log(item)
+let item = ["Chair", "Bed", "Fan", "Moter", "Mobile"]
+for(let i in item){
+    console.log(item[i])
 }
