@@ -72,7 +72,7 @@ for (let i=0; i<num4.length; i++){
 }
 */
 
-/* foreach loop
+/* forEach loop
 num4.forEach((element)=> {
     console.log(element * element)
 })
@@ -96,3 +96,4 @@ for(let i in item){
     console.log(item[i])
 }
 */
+
