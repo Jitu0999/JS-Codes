@@ -97,3 +97,7 @@ for(let i in item){
 }
 */
 
+// @@@@@@@@@@@ Map filter and reduce @@@@@@@@@@@@
+
+let arr1 = [45, 23, 21]
+console.log(arr1)
