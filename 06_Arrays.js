@@ -127,7 +127,7 @@ console.log(a2)
 */
 
 // Array reduce method
-let arr3 = [1, 2, 3, 4, 5]
+let arr3 = [1, 2, 3, 4, 6]
 const reduce_func = (h1, h2) =>{
     return h1 + h2
 }
