@@ -101,8 +101,8 @@ for(let i in item){
 
 let arr1 = [45, 23, 21]
 //console.log(arr1)
-arr1.map((value)=>{
+let a = arr1.map((value)=>{
     console.log(value)
-   // return value + 1
+    return value + 1
 })
-//console.log(a)
+console.log(a)
