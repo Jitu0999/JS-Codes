@@ -100,4 +100,9 @@ for(let i in item){
 // @@@@@@@@@@@ Map filter and reduce @@@@@@@@@@@@
 
 let arr1 = [45, 23, 21]
-console.log(arr1)
+//console.log(arr1)
+arr1.map((value)=>{
+    console.log(value)
+   // return value + 1
+})
+//console.log(a)
