@@ -98,7 +98,7 @@ for(let i in item){
 */
 
 // @@@@@@@@@@@ Map filter and reduce @@@@@@@@@@@@
-// Map - creates a new array by performing some operation on each array element.
+/* Map - creates a new array by performing some operation on each array element.
 let arr1 = [45, 23, 21]
 //console.log(arr1)
 let a = arr1.map((value)=>{
@@ -106,3 +106,12 @@ let a = arr1.map((value)=>{
     return value + 1
 })
 console.log(a)
+*/
+
+let arr1 = [45, 23, 21]
+let a = arr1.map((value, index, array)=>{
+    console.log(value, index, array)
+    return value + 1
+})
+console.log(a)
+
