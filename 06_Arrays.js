@@ -119,4 +119,8 @@ console.log(a)
 */
 
 // Array filter method
-
+let arr2 = [45, 23, 21, 0, 3, 5]
+let a2 = arr2.filter((k) =>{
+    return k < 10
+})
+console.log(a2)
