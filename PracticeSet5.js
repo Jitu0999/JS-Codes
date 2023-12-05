@@ -28,6 +28,7 @@ let arr = [1, 2, 30, 4, 50, 6, 70, 8, 90]
 let n = arr.filter((x) =>{
     return x%10 == 0
 })
+console.log(n)
 
 
 /*
