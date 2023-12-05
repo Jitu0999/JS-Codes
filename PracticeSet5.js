@@ -24,6 +24,8 @@ console.log(arr)
 /*
 Q.3 Filter for numbers divisible by 10 from a given array? 
 */
+let arr = [1, 2, 30, 4, 50, 6, 70, 8, 90]
+
 
 /*
 Q.4 Create an array of squire of given numbers? 
