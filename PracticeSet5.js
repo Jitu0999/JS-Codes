@@ -44,4 +44,8 @@ console.log(n)
 /*
 Q.5 Use reduce to calculate fictorial of a given number from an array of first n natural numbers(n being the number where factorial ruls to be calculated) 
 */
-
+let arr = [1, 2, 3, 4, 5]
+let n = arr.reduce((x1, x2) =>{
+    return x1 * x2
+})
+console.log(n)
