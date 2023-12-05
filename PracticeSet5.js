@@ -33,13 +33,13 @@ console.log(n)
 
 /*
 Q.4 Create an array of squire of given numbers? 
-*/
+
 let arr = [1, 2, 3, 4, 5]
 let n = arr.map((x) =>{
     return x*x
 })
 console.log(n)
-
+*/
 
 /*
 Q.5 Use reduce to calculate fictorial of a given number from an array of first n natural numbers(n being the number where factorial ruls to be calculated) 
