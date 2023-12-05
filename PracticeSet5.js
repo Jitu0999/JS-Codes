@@ -34,7 +34,11 @@ console.log(n)
 /*
 Q.4 Create an array of squire of given numbers? 
 */
-
+let arr = [1, 2, 3, 4, 5]
+let n = arr.filter((x) =>{
+    return x%10 == 0
+})
+console.log(n)
 
 
 /*
