@@ -1,3 +1,4 @@
+// *************** Practice Set of Array 
 /*
 Q.1 Create an array of numbers and take input from the user to add numbers to this array?
 
