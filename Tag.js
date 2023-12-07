@@ -1,5 +1,6 @@
-// Script Tag.
-
+/* Script Tag.
+1. Using between <script></script> tag in index.html file.
+2. Seprate file with .js extension.
 
 
 console.log('Hello')
