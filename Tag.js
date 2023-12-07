@@ -1,4 +1,4 @@
-/* Script Tag.
+/* Script Tag. (inline script and source script)
 1. Using between <script></script> tag in index.html file.
 2. Seprate file with .js extension.
 
