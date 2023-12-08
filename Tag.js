@@ -18,3 +18,5 @@ console.error('Hey this is an error....')
 console.assert(5>7) // Assertion failed.
 console.assert(50>7) //  Assertion passed.
 console.clear() // Clear all console screen.
+obj = {a: 1, b: 2, c: 3, d: 4}
+console.table(obj) // show in a tabular form.
