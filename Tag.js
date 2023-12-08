@@ -21,3 +21,4 @@ console.clear() // Clear all console screen.
 obj = {a: 1, b: 2, c: 3, d: 4}
 console.table(obj) // show in a tabular form.
 console.warn('Hey please donot touch anythings here!!')
+console.info('Info.')
