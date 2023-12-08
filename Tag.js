@@ -13,3 +13,5 @@ let a = 4;
 let b = 6;
 console.log(a+b)
 
+// Console object methods.
+console.error('Hey this is an error....')
