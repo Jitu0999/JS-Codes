@@ -15,5 +15,6 @@ console.log(a+b)
 
 // Console object methods.
 console.error('Hey this is an error....')
-console.assert(5>7) // Assertion failed
-console.assert(50>7) //  Assertion passed
+console.assert(5>7) // Assertion failed.
+console.assert(50>7) //  Assertion passed.
+console.clear() // Clear all console screen.
