@@ -22,3 +22,6 @@ obj = {a: 1, b: 2, c: 3, d: 4}
 console.table(obj) // show in a tabular form.
 console.warn('Hey please donot touch anythings here!!')
 console.info('Info.')
+console.time()
+console.time('Process1')
+console.timeEnd('Process2')
