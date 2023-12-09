@@ -25,8 +25,8 @@ console.info('Info.')
 console.time()
 console.time('a')
 console.timeEnd('a')
-console.time('Process1')
-console.timeEnd('Process2')
+//console.time('Process1')
+//console.timeEnd('Process2')
 
 console.time('forLoop')
 for(let i=0;i<5;i++){
