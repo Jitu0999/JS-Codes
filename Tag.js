@@ -30,14 +30,14 @@ console.timeEnd('a')
 
 console.time('forLoop')
 for(let i=0;i<10;i++){
-    console.log(233)
+    console.log('Jitu')
 }
 console.timeEnd('forLoop')
 
 console.time('whileLoop')
 let i=0;
 while(i<10){
-    console.log(233)
+    console.log('233')
     i++;
 }
 console.timeEnd('whileLoop')
