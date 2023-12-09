@@ -28,3 +28,8 @@ console.timeEnd('a')
 console.time('Process1')
 console.timeEnd('Process2')
 
+console.time('forLoop')
+for(let i=0;i<5;i++){
+    console.log(233)
+}
+console.timeEnd('forLoop')
