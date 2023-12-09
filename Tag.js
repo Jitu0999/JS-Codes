@@ -23,5 +23,8 @@ console.table(obj) // show in a tabular form.
 console.warn('Hey please donot touch anythings here!!')
 console.info('Info.')
 console.time()
+console.time('a')
+console.timeEnd('a')
 console.time('Process1')
 console.timeEnd('Process2')
+
