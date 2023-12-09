@@ -29,14 +29,14 @@ console.timeEnd('a')
 //console.timeEnd('Process2')
 
 console.time('forLoop')
-for(let i=0;i<5;i++){
+for(let i=0;i<50;i++){
     console.log(233)
 }
 console.timeEnd('forLoop')
 
 console.time('whileLoop')
 let i=0;
-while(i<5){
+while(i<50){
     console.log(233)
     i++;
 }
