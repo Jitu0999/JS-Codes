@@ -13,7 +13,8 @@ let a = 4;
 let b = 6;
 console.log(a+b)
 
-// Console object methods.
+/*  ........ Console object methods...............
+
 console.error('Hey this is an error....')
 console.assert(5>7) // Assertion failed.
 console.assert(50>7) //  Assertion passed.
@@ -41,5 +42,10 @@ while(i<10){
     i++;
 }
 console.timeEnd('whileLoop')
+*/
+
+// .......... Alert ..........
+//alert('hello your script works!!')
+
 
 
