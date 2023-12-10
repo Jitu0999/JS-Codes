@@ -46,8 +46,10 @@ console.timeEnd('whileLoop')
 
 // .......... Alert, Prompt, Confirm ..........
 //alert('hello your script works!!')
-alert('Enter the value of a !')
-let a = prompt('Enter a here')
+alert('Enter the value of t !')
+let t = prompt('Enter t here')
+document.write(t)
+
 
 
 
