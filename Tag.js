@@ -44,8 +44,9 @@ while(i<10){
 console.timeEnd('whileLoop')
 */
 
-// .......... Alert ..........
+// .......... Alert, Prompt, Confirm ..........
 //alert('hello your script works!!')
+alert('Enter the value of a !')
 
 
 
