@@ -50,6 +50,7 @@ alert('Enter the value of t !')
 let t = prompt('Enter t here')
 //document.write(t)
 t = Number.parseInt(t)
+alert('You enterd t of type ' + (typeof t))
 
 
 
