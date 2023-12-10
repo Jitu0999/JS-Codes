@@ -44,7 +44,7 @@ while(i<10){
 console.timeEnd('whileLoop')
 */
 
-// .......... Alert, Prompt, Confirm ..........
+/* .......... Alert, Prompt, Confirm ..........
 //alert('hello your script works!!')
 alert('Enter the value of t !')
 let t = prompt('Enter t here', '555')
@@ -58,3 +58,5 @@ document.write(t)
 else {
     document.write('Please allow me to write.')
 }
+*/
+
