@@ -51,7 +51,10 @@ let t = prompt('Enter t here', '555')
 
 t = Number.parseInt(t)
 alert('You enterd t of type ' + (typeof t))
+let write = confirm('Do you want to write it to the page.')
+if(write) {
 document.write(t)
-
-
-
+}
+else {
+    document.write('Please allow me to write.')
+}
