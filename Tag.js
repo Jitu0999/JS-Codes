@@ -48,7 +48,8 @@ console.timeEnd('whileLoop')
 //alert('hello your script works!!')
 alert('Enter the value of t !')
 let t = prompt('Enter t here')
-document.write(t)
+//document.write(t)
+t = Number.parseInt(t)
 
 
 
