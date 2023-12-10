@@ -48,10 +48,10 @@ console.timeEnd('whileLoop')
 //alert('hello your script works!!')
 alert('Enter the value of t !')
 let t = prompt('Enter t here', '555')
-//document.write(t)
+
 t = Number.parseInt(t)
 alert('You enterd t of type ' + (typeof t))
-
+document.write(t)
 
 
 
