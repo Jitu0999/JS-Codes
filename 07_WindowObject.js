@@ -1,4 +1,4 @@
-// Window object. 
+// Window (DOM) (BOM) (JavaScript Core)
 
 window.console.log(window)
 window.alert('Hi..')
