@@ -3,4 +3,6 @@ Q.4 Write a program using prompt function to take input of age as a value from t
 */
 let age = prompt('Enter your age ')
 age = Number.parseInt(age)
-
+const canDrive = (age)=>{
+    return age>=18?true:false
+}
