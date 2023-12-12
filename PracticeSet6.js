@@ -9,3 +9,6 @@ const canDrive = (age)=>{
 if (canDrive(age)){
     alert('Yes you can drive')
 }
+else {
+    alert('You cannot drive.')
+}
