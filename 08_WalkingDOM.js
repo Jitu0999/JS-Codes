@@ -10,6 +10,23 @@ A text node is always a leaf of the tree.
 AUTO CORRECTIN -
 If an erroneous HTML is encountered by the browser,
 it tends to correct it for example, if we put something after the body, it is automatically moved inside the body.
-
+Another example is <table> tag which must contain <tbody>
 
 */
+<html>
+    <head>
+        <title>Hello</title>
+    </head>
+    <body>
+        <>...</>
+        <>....</>
+        <>.....</>
+    </body>
+</html>
+
+Document.body  ---> Page body tag 
+    ^
+    |
+   DOCUMENT ---> Document  documentElement
+   /   \
+   document
