@@ -9,6 +9,6 @@ A text node is always a leaf of the tree.
 
 AUTO CORRECTIN -
 If an erroneous HTML is encountered by the browser,
-it tends to correct it for example, 
+it tends to correct it for example, if we put something after the body,
 
 */
