@@ -29,5 +29,6 @@ Document.body  ---> Page body tag
     |
    DOCUMENT ---> Document  documentElement
    /   \                       |
-   |    More Children        Page HTML tag
+   |    More Children       Page HTML tag
+   |
 document.head
