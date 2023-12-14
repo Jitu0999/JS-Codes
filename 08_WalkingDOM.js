@@ -5,7 +5,10 @@ DOM tree refers the HTML page where all the nodes are objects. There can be 3 ma
 3. Comment nodes
 
 In an HTML page, <html> is at the root and <head> and <body> are its children, etc.
-A text 
+A text node is always a leaf of the tree.
+
+AUTO CORRECTIN -
+If an erroneous HTML is encountered by the browser,
 
 
 */
