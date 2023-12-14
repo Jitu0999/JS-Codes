@@ -28,5 +28,6 @@ Document.body  ---> Page body tag
     ^
     |
    DOCUMENT ---> Document  documentElement
-   /   \
-   document
+   /   \                       |
+   |    More Children        Page HTMl tag
+document.head
