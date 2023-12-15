@@ -33,4 +33,5 @@ Document.body  ---> Page body tag
    |
 document.head
 
-// NOTE - document.body can sometime be null if the javascript is writen before the body tag. 
+// NOTE - document.body can sometime be null if the javascript is writen before the body tag.
+ 
