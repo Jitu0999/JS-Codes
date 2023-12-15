@@ -32,3 +32,5 @@ Document.body  ---> Page body tag
    |    More Children       Page HTML tag
    |
 document.head
+
+// NOTE - document.body can sometime be null if the javascript is writen before the body tag. 
