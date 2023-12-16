@@ -13,7 +13,7 @@ element.childNodes -> All child nodes.
 
 Following is always true :-
 elem.childNodes[0] === elem.firstChild
-
+elem.childNodes[elem.childNodes.length-1] === elem.lastChild
 
 
 
