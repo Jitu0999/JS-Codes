@@ -17,7 +17,7 @@ elem.childNodes[elem.childNodes.length-1] === elem.lastChild
 
 there is also a method elem.hasChildNodes() to check whether there are any child nodes.
 
-NOTE:- childNodes looks like an array, But 
+NOTE:- childNodes looks like an array, But its not actually an array but a collection.
 
 
 
