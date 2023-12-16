@@ -11,6 +11,8 @@ element.firstChild -> First child element.
 element.lastChild -> Last Child element.
 element.childNodes -> All child nodes.
 
+Following is always true :-
+elem.childNodes[0] === elem.firstChild
 
 
 
