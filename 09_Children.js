@@ -15,6 +15,9 @@ Following is always true :-
 elem.childNodes[0] === elem.firstChild
 elem.childNodes[elem.childNodes.length-1] === elem.lastChild
 
+there is also a method elem.hasChildNodes() to check whether there are any child nodes.
+
+NOTE:- 
 
 
 
