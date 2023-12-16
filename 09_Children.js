@@ -9,6 +9,8 @@ Descendant nodes - all nested elements, children their children and so on...
 firstChild, lastChild & childNodes --
 element.firstChild -> First child element.
 element.lastChild -> Last Child element.
+element.childNodes -> All child nodes.
+
 
 
 
