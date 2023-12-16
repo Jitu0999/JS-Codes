@@ -7,6 +7,7 @@ Child nodes- Elements that are direct children,For example head and body are chi
 Descendant nodes - all nested elements, children their children and so on...
 
 firstChild, lastChild & childNodes --
+element.firstChild -> First child element.
 
 
 
