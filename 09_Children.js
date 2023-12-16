@@ -20,6 +20,8 @@ there is also a method elem.hasChildNodes() to check whether there are any child
 NOTE:- childNodes looks like an array, But its not actually an array but a collection.
 We can use array from (Collection) to convert it into an array ---> Array methods wont work.
 
+Notes on DOM Collections :-
+
 
 
 
