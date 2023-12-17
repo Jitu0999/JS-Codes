@@ -22,7 +22,5 @@ We can use array from (Collection) to convert it into an array ---> Array method
 
 Notes on DOM Collections :-
 
-
-
-
 */
+
