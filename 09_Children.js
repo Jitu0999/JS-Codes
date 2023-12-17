@@ -24,3 +24,4 @@ Notes on DOM Collections :-
 
 */
 
+console.log(document.body.firstChild)
