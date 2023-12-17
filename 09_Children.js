@@ -28,5 +28,5 @@ console.log(document.body.firstChild) // atext
 console.log(document.body.lastChild) // script
 //console.log(document.body.childNodes) // nodeList(8) [text, h2, text, span, text, div, text, script]
 let arr = Array.from(document.body.childNodes)
-//console.log(arr)
+console.log(arr)
 
