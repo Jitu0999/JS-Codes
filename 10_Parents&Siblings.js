@@ -8,5 +8,7 @@ They are iterable using for of loop.
 Siblings and the parent:-
 Siblings are nodes that are children of the same parent.
 
+For example:-
+<head> and <body> are siblings.
 
 */
