@@ -1,0 +1,6 @@
+
+/*
+Notes on DOM Collections :-
+
+
+*/
