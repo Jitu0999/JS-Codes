@@ -10,5 +10,6 @@ Siblings are nodes that are children of the same parent.
 
 For example:-
 <head> and <body> are siblings.
+Siblings have same parent. in the above example its html.
 
 */
