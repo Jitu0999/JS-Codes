@@ -23,7 +23,6 @@ alert(document.documentElement.parentElement); // null
 
 
 
-
 */
 
 
