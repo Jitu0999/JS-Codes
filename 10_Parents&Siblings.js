@@ -24,6 +24,9 @@ The parent is available as parentNode.
                  |      /  \  \
                title  div div div
 
+
+               
+
 alert(document.documentElement.parentNode); // document
 alert(document.documentElement.parentElement); // null
 
