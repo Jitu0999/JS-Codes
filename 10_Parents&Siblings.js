@@ -24,7 +24,7 @@ The parent is available as parentNode.
                  |      /  \  \
                title  div div div
                      / |  / |   \
-
+                   h1 h3 h3 li   a
 
 
 alert(document.documentElement.parentNode); // document
