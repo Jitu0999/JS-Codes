@@ -23,9 +23,11 @@ The parent is available as parentNode.
                 head     body
                  |      /  \  \
                title  div div div
-                     / |  / |   \
-                   h1 h3 h3 li   a
-
+                     / |  /  |   \
+                   h1 h3 h3  ul    a
+                         | / | \   |
+                        em li li li em
+                        
 
 alert(document.documentElement.parentNode); // document
 alert(document.documentElement.parentElement); // null
