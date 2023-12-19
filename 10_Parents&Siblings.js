@@ -18,6 +18,10 @@ Siblings have same parent. in the above example its html.
 The next sibling is in nextSibling property, and the privious one in previousSibling.
 The parent is available as parentNode.
 
+                    html
+                    /   \
+                    
+
 alert(document.documentElement.parentNode); // document
 alert(document.documentElement.parentElement); // null
 
