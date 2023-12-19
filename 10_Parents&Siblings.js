@@ -20,7 +20,9 @@ The parent is available as parentNode.
 
                     html
                     /   \
-                    
+                 head   body
+                   |   /  \  \
+                   
 
 alert(document.documentElement.parentNode); // document
 alert(document.documentElement.parentElement); // null
