@@ -32,9 +32,14 @@ The parent is available as parentNode.
 alert(document.documentElement.parentNode); // document
 alert(document.documentElement.parentElement); // null
 
-
-
 */
+
+console.log(document.body.firstChild)
+a = document.body.firstChild
+console.log(a.parentNode)
+console.log(a.parentElement)
+console.log(a.firstChild.nextSibling)
+
 
 
 
