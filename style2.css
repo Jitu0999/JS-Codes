@@ -5,12 +5,13 @@ html, body {
     padding: 0;
 }
 
-ul {
+.ul {
     display: flex;
     background:grey;
     margin: 0;
+    padding: 15px 0;
 }
-ul li {
+.ul li {
     list-style: none;
     margin: 0 23px;
 }
