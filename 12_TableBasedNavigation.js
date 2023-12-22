@@ -7,6 +7,8 @@ table.rows ----> Collection of tr elements.
 table.caption ----> refrence to <caption>
 table.tHead ----> reftence to <thead>
 table.tFoot ----> refrence to <tfoot>
+table.tBodies ----> collection to <tbody> elements
+tbody.rows ----> collection to <tr> inside
 
 
 */
