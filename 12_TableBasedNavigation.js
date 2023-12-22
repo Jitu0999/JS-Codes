@@ -4,6 +4,7 @@ Certen DOM elements may provide additional properties specifie to their type for
 Table element supports the following properties :-
 
 table.rows ----> Collection of tr elements.
+table.caption ----> refrence to <caption>
 
 
 */
