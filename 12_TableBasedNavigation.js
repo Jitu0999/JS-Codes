@@ -5,6 +5,8 @@ Table element supports the following properties :-
 
 table.rows ----> Collection of tr elements.
 table.caption ----> refrence to <caption>
+table.tHead ----> reftence to <thead>
+table.tFoot ----> refrence to <tfoot>
 
 
 */
