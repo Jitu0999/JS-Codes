@@ -16,5 +16,10 @@ tr.rowIndex ----> Row number starting from 0
 
 td.cellIndex ----> No. of cells inside enclosing <tr>
 
+Quick Quiz :-
+Print typeof document and typeof window in the console and sec what is prints.
+
+
+
 */
 
