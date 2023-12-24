@@ -24,5 +24,7 @@ Print typeof document and typeof window in the console and sec what is prints.
 let t = document.body.firstElementChild.firstElementChild
 console.log(t)
 console.log(t.rows)
+console.log(t.caption)
+
 
 
