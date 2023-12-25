@@ -31,8 +31,10 @@ console.log(t.tFoot)
 console.log(t.tBodies)
 console.log(t.rows[0])
 console.log(t.rows[0].rowIndex)
+
 let tr = document.body.firstElementChild.firstElementChild
 console.log(tr.cells)
+console.log(tr.sectionRowIndex)
 //console.log(td.cellIndex)
 
 
