@@ -38,7 +38,7 @@ console.log(tr.sectionRowIndex)
 console.log(tr.rows[0].rowIndex)
 
 let td = document.body.firstElementChild.firstElementChild
-//console.log(td.cellIndex)
+console.log(td.cellIndex)
 
 
 
