@@ -1,5 +1,6 @@
 /*
 Searching the DOM:-
+DOM navigation properties are helpful when the elements are close to each other.
 
 
 */
