@@ -1,3 +1,12 @@
+/*
+Searching the DOM:-
+
+
+*/
+
+
+
 // Change the card title to red.
 
-let ctitle = document.getElementsByClassName("card-title")
+let ctitle = document.getElementsByClassName("card-title")[0]
+
