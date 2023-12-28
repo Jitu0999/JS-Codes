@@ -13,6 +13,7 @@ document.querySelectorAll -
 Returns all element inside an element matching the given CSS selector.
 
 document.querySelector -
+Returns the first element for the given CSS selector.
 
 
 
