@@ -10,6 +10,8 @@ let span = document.getElementById('span')
 span.style.color="red"
 
 document.querySelectorAll -
+Returns all element inside an element matching the given CSS selector.
+
 
 
 
