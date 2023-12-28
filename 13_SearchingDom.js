@@ -9,6 +9,7 @@ This method is used to get the element with a given id attribute.
 let span = document.getElementById('span')
 span.style.color="red"
 
+document.querySelectorAll -
 
 
 
