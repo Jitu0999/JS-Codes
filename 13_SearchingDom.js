@@ -16,7 +16,8 @@ Returns all element inside an element matching the given CSS selector.
 Returns the first element for the given CSS selector.
 A efficient version of elem.querySelectorAll(css)[0]
 
-4. 
+4. document.getElementsByTagName :-
+
 
 
 
