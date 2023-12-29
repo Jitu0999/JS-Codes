@@ -17,7 +17,7 @@ Returns the first element for the given CSS selector.
 A efficient version of elem.querySelectorAll(css)[0]
 
 4. document.getElementsByTagName :-
-
+Returns elements with the given tag name
 
 
 
