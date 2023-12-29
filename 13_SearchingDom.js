@@ -24,6 +24,8 @@ Returns elements that have the given css class
 * Dont firget the 's' letter.
 
 6. document.getElementsByName :-
+Searches elements by name attribute.
+
 
 
 
