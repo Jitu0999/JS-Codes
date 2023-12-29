@@ -21,7 +21,7 @@ Returns elements with the given tag name
 
 5. document.getElementsByClassName :-
 Returns elements that have the given css class
-
+* Dont firget the 's' letter.
 
 
 */
