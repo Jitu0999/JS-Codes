@@ -19,7 +19,7 @@ A efficient version of elem.querySelectorAll(css)[0]
 4. document.getElementsByTagName :-
 Returns elements with the given tag name
 
-5. document.getElementsByName :-
+5. document.getElementsByClassName :-
 
 
 
