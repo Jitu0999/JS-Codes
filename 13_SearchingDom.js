@@ -23,6 +23,9 @@ Returns elements with the given tag name
 Returns elements that have the given css class
 * Dont firget the 's' letter.
 
+6. document.getElementsByName :-
+
+
 
 */
 
