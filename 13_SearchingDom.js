@@ -20,6 +20,7 @@ A efficient version of elem.querySelectorAll(css)[0]
 Returns elements with the given tag name
 
 5. document.getElementsByClassName :-
+Returns elements that have the given css class
 
 
 
