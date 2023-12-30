@@ -34,12 +34,18 @@ Searches elements by name attribute.
 
 
 // Change the card title to red.
+
 /*
-let ctitle = document.getElementsByClassName("catd-title")[0]
-ctitle.style.color = "red"
+let cardtitle = document.getElementsByClassName("card-title")[0]
+console.log(cardtitle);
+cardtitle.style.color = "blue";
 */
-let ctitle = document.getElementById("firstcardtitle")
-ctitle.style.display.color = "red"
+
+let cardtitle = document.getElementById("firstcardtitle")
+cardtitle.style.color = "red";
+
+
+
 
 
 
