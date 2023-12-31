@@ -55,7 +55,7 @@ document.querySelector(".this").style.color = "red";
 document.querySelector(".this").style.background = "pink";
 console.log(document.getElementsByTagName("a"));
 console.log(document.body.getElementsByTagName("a"));
-
+console.log(document.getElementsByName("search"));
 
 
 
