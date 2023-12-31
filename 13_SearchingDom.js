@@ -44,8 +44,12 @@ cardtitle.style.color = "blue";
 let cardtitle = document.getElementById("firstcardtitle")
 cardtitle.style.color = "red";
 
-let cardtitle = document.querySelectorAll(".card-title");
-
+let cardtitles = document.querySelectorAll(".card-title");
+cardtitles[0].style.color = "blue"
+cardtitles[1].style.color = "green"
+cardtitles[2].style.color = "red"
+cardtitles[3].style.color = "yellow"
+console.log(cardtitles);
 
 
 
