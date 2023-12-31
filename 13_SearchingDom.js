@@ -51,6 +51,9 @@ cardtitles[2].style.color = "red"
 cardtitles[3].style.color = "yellow"
 console.log(cardtitles);
 
+document.querySelector(".this").style.color = "red";
+
+
 
 
 
