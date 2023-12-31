@@ -53,6 +53,8 @@ console.log(cardtitles);
 
 document.querySelector(".this").style.color = "red";
 document.querySelector(".this").style.background = "pink";
+console.log(document.getElementsByTagName("a"));
+
 
 
 
