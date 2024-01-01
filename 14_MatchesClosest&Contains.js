@@ -8,3 +8,4 @@ There are three important methods to search the dom.
 
 */
 
+console.log(id1);
