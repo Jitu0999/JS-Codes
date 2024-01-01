@@ -27,7 +27,8 @@ Returns elements that have the given css class
 Searches elements by name attribute.
 
 Matches, Closest and Contains methods:-
-1.
+There are three important methods to search the dom.
+1. 
 
 
 
