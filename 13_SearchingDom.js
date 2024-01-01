@@ -26,6 +26,8 @@ Returns elements that have the given css class
 6. document.getElementsByName :-
 Searches elements by name attribute.
 
+Matches, Closest and Contains methods:-
+1.
 
 
 
@@ -56,6 +58,19 @@ document.querySelector(".this").style.background = "pink";
 console.log(document.getElementsByTagName("a"));
 console.log(document.body.getElementsByTagName("a"));
 console.log(document.getElementsByName("search"));
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
