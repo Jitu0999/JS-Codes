@@ -29,7 +29,8 @@ Searches elements by name attribute.
 Matches, Closest and Contains methods:-
 There are three important methods to search the dom.
 1. elem.matches(css) -> To check if element matches the given css selector.
-2. 
+2. elem.closet(css) -> To look for the nearest ancestor that matches the given css selector. The elem itself is also checked.
+3. 
 
 
 
