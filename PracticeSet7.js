@@ -10,8 +10,12 @@ Ans-  NO.
 */
 
 /*
-Create an element with 3 children now change the color of first and last element to green?
+Q.3 Create an element with 3 children now change the color of first and last element to green?
 */
 
 document.getElementsByTagName("nav")[0].firstElementChild.style.color = "green"
 document.getElementsByTagName("nav")[0].lastElementChild.style.color = "green"
+
+/*
+Q.4 
+*/
