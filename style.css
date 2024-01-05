@@ -8,7 +8,7 @@ html, body {
 }
 nav {
     display: flex;
-    background: cyan;
+    background: rgb(173, 226, 226);
 }
 nav li {
     list-style: none;
