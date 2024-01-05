@@ -5,5 +5,5 @@ document.getElementsByTagName("nav")[0].firstElementChild.style.color = "red"
 */
 
 /*
-Q.2 
+Q.2 Create a table without tbody. Now use "View page source" button to check when ther it has a tbody or not?
 */
