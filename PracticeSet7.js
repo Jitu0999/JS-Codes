@@ -25,4 +25,6 @@ Array.from(document.getElementsByTagName("li")).forEach((Element) =>{
 
 /*
 Q.5 Write of the following is used to look for the farthest encistor that matches a given css selector?
+A. Matches, B. Closest, C. Contains, D. None of these.
+
 */
