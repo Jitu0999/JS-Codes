@@ -17,5 +17,5 @@ document.getElementsByTagName("nav")[0].firstElementChild.style.color = "green"
 document.getElementsByTagName("nav")[0].lastElementChild.style.color = "green"
 
 /*
-Q.4 Write a javascript code to change background of all <li> tags to cyan?
+Q.4 Write a javascript code to change background of all <li> tags to yellow?
 */
