@@ -23,3 +23,6 @@ Array.from(document.getElementsByTagName("li")).forEach((Element) =>{
     Element.style.background = "yellow";
 })
 
+/*
+Q.5 Write of the following is used to look for the farthest encistor that matches a given css selector?
+*/
