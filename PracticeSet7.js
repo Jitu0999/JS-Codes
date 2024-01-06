@@ -22,3 +22,4 @@ Q.4 Write a javascript code to change background of all <li> tags to yellow?
 Array.from(document.getElementsByTagName("li")).forEach((Element) =>{
     Element.style.background = "yellow";
 })
+
