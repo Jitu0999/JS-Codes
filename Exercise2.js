@@ -5,3 +5,4 @@ Create Snakem Water and Gun game in JavaScript.
 */
 
 let user = prompt("Enter S, W or G")
+let cpu = Math.floor(Math.random() * 3);
