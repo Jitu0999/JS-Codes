@@ -13,3 +13,4 @@ const match = (cpu, user) =>{
         return 0
     }
 }
+match(cpu, user)
