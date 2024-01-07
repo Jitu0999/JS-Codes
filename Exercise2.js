@@ -4,3 +4,4 @@ Create Snakem Water and Gun game in JavaScript.
 2. Use alert, prompt and confirm where ever required.
 */
 
+let user = prompt("Enter S, W or G")
