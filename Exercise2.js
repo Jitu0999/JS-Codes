@@ -21,5 +21,8 @@ const match = (cpu, user) =>{
     else if(cpu === "G" && user === "W"){
         return "user"
     }
+    else if(cpu === "G" && user === "S"){
+        return "cpu"
+    }
 }
 match(cpu, user)
