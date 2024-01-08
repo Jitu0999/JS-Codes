@@ -10,7 +10,7 @@ let cpu = ["S", "W", "G"][cpuI]
 
 const match = (cpu, user) =>{
     if(cpu === user){
-        return 0
+        return "Nobody. Match is tied."
     }
     else if(cpu === "S" && user === "W"){
         return "cpu"
@@ -25,10 +25,11 @@ const match = (cpu, user) =>{
         return "cpu"
     }
     else if(cpu === "W" && user === "S"){
-        return "cpu"
+        return "user"
     }
     else if(cpu === "W" && user === "G"){
         return "cpu"
     }
 }
-match(cpu, user)
+let result = match(cpu, user)
+console.log('The winner is : ' + result)
