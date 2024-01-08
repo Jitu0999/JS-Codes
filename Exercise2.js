@@ -32,4 +32,4 @@ const match = (cpu, user) =>{
     }
 }
 let result = match(cpu, user)
-console.log('The winner is : ' + result)
+document.write(`CPU:${cpu} and User:${user} \n The winner is : ${result}`)
