@@ -1,4 +1,7 @@
 /*
+Tell me a joke
 
+elem.innerHtml is used to populate a div with Html.
+  
 
 */
