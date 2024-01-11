@@ -288,7 +288,7 @@ Open-toad!` ,
 Because seven ate nine.` ,
 
 `RELATED: Love Riddles
-What do you call a boomerang that doesn’t come back?
+What do you call a boomerang that does not come back?
 A stick!` ,
 
 `What starts with E, ends with E, and has only 1 letter in it?
