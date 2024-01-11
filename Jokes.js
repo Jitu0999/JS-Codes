@@ -91,7 +91,7 @@ What did the Buddhist say to the hot dog vendor?
 Make me one with everything.` ,
 
 `What did the left eye say to the right eye?
-Between you and me, something smells.` '
+Between you and me, something smells.` ,
 
 `What do you call a fake noodle?
 An impasta.` ,
