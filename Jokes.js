@@ -294,7 +294,7 @@ A stick!` ,
 `What starts with E, ends with E, and has only 1 letter in it?
 Envelope.` ,
 
-`Why doesn’t the sun go to college?
+`Why does not the sun go to college?
 Because it has a million degrees!` ,
 
 `How do you count cows?
