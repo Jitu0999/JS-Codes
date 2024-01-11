@@ -307,7 +307,7 @@ Because nothing gets under their skin.` ,
 Because so many kings and queens have been reigning there.` ,
 
 `Did you hear about the kidnapping at school?
-It’s okay. He woke up.` ,
+It is okay. He woke up.` ,
 
 `What are shark’s two most favorite words?
 Man overboard!` ,
