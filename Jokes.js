@@ -279,7 +279,7 @@ But I am slowly getting over it.` ,
 Right where you left it.` ,
 
 `What did one traffic light say to the other?
-Stop looking! I’m changing!` ,
+Stop looking! I am changing!` ,
 
 `What type of sandals do frogs wear?
 Open-toad!` ,
