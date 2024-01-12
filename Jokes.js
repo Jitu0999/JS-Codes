@@ -213,7 +213,7 @@ I poured root beer in a square glass.
 Now I just have beer.` ,
 
 `Why aren't koalas actual bea
-Why aren’t koalas actual bears?
+Why are npt koalas actual bears?
 They do not meet the koalafications.` ,
 
 `Rest in peace to boiling wat
