@@ -261,7 +261,7 @@ Have you ever talked to a lawyer?` ,
 
 `RELATED: Plant Puns
 Why did the gym close down?
-It just didn’t work out!` ,
+It just did not work out!` ,
 
 `Lbm 2023 Book2 Cover Dated	Want even more jokes? Enjoy 100 Years of our best jokes, stories, riddles and cartoons in the all-new, side-splitting collection, Laughter, the Best Medicine 2023.
 Shop Now` ,
