@@ -185,7 +185,7 @@ They dribble all the time.` ,
 
 `What breed of dog can jump higher than buildin
 What breed of dog can jump higher than buildings?
-Any dog, because buildings can’t jump.` ,
+Any dog, because buildings can not jump.` ,
 
 `How many times can you subtract 10 from 1
 How many times can you subtract 10 from 100?
