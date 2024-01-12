@@ -214,7 +214,7 @@ Now I just have beer.` ,
 
 `Why aren't koalas actual bea
 Why aren’t koalas actual bears?
-They don’t meet the koalafications.` ,
+They do not meet the koalafications.` ,
 
 `Rest in peace to boiling wat
 Rest in peace to boiling water.
