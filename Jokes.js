@@ -254,7 +254,7 @@ Why can’t male ants sink?
 They’re buoy-ant.` ,
 
 `Want to hear a construction joke?
-Oh never mind, I’m still working on that one.` ,
+Oh never mind, I am still working on that one.` ,
 
 `Talk is cheap?
 Have you ever talked to a lawyer?` ,
