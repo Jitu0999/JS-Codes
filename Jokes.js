@@ -206,7 +206,7 @@ Hebrews it.` ,
 
 `I got my daughter a fridge for her birthd
 I got my daughter a fridge for her birthday.
-I can’t wait to see her face light up when she opens it.` ,
+I can not wait to see her face light up when she opens it.` ,
 
 `I poured root beer in a square gla
 I poured root beer in a square glass.
