@@ -250,7 +250,7 @@ Why did the math textbook visit the guidance counselor?
 It needed help figuring out its problems.` ,
 
 `why can't male ants si
-Why can’t male ants sink?
+Why can not male ants sink?
 They are buoy-ant.` ,
 
 `Want to hear a construction joke?
