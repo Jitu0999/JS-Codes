@@ -133,7 +133,7 @@ His car got toad away.` ,
 `What did the buffalo say when his son left for college?
 Bison.` ,
 
-`What is an astronaut’s favorite part on a computer?
+`What is an astronaut's favorite part on a computer?
 The space bar.` ,
 
 `Why did the yogurt go to the art exhibition?
