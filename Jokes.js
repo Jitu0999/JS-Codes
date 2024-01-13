@@ -80,7 +80,7 @@ The best of thymes, the worst of thymes.` ,
 A cat has claws at the end of paws; A comma is a pause at the end of a clause. Don’t forget to bookmark these other “what’s the difference between” jokes that will crack you up.` ,
 
 `Why should the number 288 never be mentioned?
-It’s two gross.` ,
+It is two gross.` ,
 
 `RELATED: St. Patrick's Day Jokes
 What did the Tin Man say when he got run over by a steamroller?
