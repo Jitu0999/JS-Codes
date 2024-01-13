@@ -82,7 +82,7 @@ A cat has claws at the end of paws; A comma is a pause at the end of a clause. D
 `Why should the number 288 never be mentioned?
 It’s two gross.` ,
 
-`RELATED: St. Patrick’s Day Jokes
+`RELATED: St. Patrick's Day Jokes
 What did the Tin Man say when he got run over by a steamroller?
 “Curses! Foil again!
 What did the bald man exclaim when he received a comb for a present?
