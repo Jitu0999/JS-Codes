@@ -117,7 +117,7 @@ What did the shark say when he ate the clownfish?
 This tastes a little funny
 What’s orange and sounds like a carrot?
 A parrot
-Why can’t you hear a pterodactyl go to the bathroom?
+Why can not you hear a pterodactyl go to the bathroom?
 Because the “P” is silent.` ,
 
 `What do you call a woman with one leg?
