@@ -107,7 +107,7 @@ Nice belt!` ,
 A little horse.` ,
 
 `What did one hat say to the other?
-You wait here. I’ll go on a head. If you loved this, you’ll get a kick out of these dog puns.` ,
+You wait here. I will go on a head. If you loved this, you’ll get a kick out of these dog puns.` ,
 
 `What do you call a magic dog?
 A labracadabrador.` ,
