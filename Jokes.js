@@ -86,7 +86,7 @@ It’s two gross.` ,
 What did the Tin Man say when he got run over by a steamroller?
 “Curses! Foil again!
 What did the bald man exclaim when he received a comb for a present?
-Thanks— I’ll never part with it
+Thanks— I will never part with it
 What did the Buddhist say to the hot dog vendor?
 Make me one with everything.` ,
 
