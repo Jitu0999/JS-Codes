@@ -115,7 +115,7 @@ A labracadabrador.` ,
 `What did the shark say when he ate the clownfish. This tastes a little fun
 What did the shark say when he ate the clownfish?
 This tastes a little funny
-What’s orange and sounds like a carrot?
+What is orange and sounds like a carrot?
 A parrot
 Why can not you hear a pterodactyl go to the bathroom?
 Because the “P” is silent.` ,
