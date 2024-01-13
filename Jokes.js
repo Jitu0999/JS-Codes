@@ -160,7 +160,7 @@ Did you hear about the two people who stole a calendar?
 They each got six months.` ,
 
 `What's Forest Gump's passwo
-What’s Forest Gump is password?
+What is Forest Gump's password?
 1Forest1.` ,
 
 `How do poets say hel
