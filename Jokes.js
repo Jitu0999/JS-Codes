@@ -165,7 +165,7 @@ What’s Forest Gump’s password?
 
 `How do poets say hel
 How do poets say hello?
-Hey, haven’t we metaphor? If you are a word nerd, here are  grammar jokes that are hilarious.` ,
+Hey, have not we metaphor? If you are a word nerd, here are  grammar jokes that are hilarious.` ,
 
 `Where does Batman go to the bathro
 Where does Batman go to the bathroom?
