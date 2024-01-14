@@ -27,7 +27,7 @@ OK, now you say, “Control Freak who?”` ,
 There’s no menu: You get what you deserve.` ,
 
 `A woman in labor suddenly shouted, “Shouldn’t! Wouldn’t! Couldn’t! Didn’t! Can’t!”
-“Don’t worry,” said the doc. “Those are just contractions.”` ,
+“Do not worry,” said the doc. “Those are just contractions.”` ,
 
 `A bear walks into a bar and says, “Give me a whiskey and … cola.”
 “Why the big pause?” asks the bartender. The bear shrugged. “I’m not sure; I was born with them.
