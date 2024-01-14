@@ -61,7 +61,7 @@ Why can’t you explain puns to kleptomaniacs?
 They always take things literally
 How do you keep a bagel from getting away?
 Put lox on it
-A man tells his doctor, “Doc, help me. I’m addicted to Twitter!”
+A man tells his doctor, “Doc, help me. I am addicted to Twitter!”
 The doctor replies, “Sorry, I do not follow you …”` ,
 
 `What kind of exercise do lazy people do?
