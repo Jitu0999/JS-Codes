@@ -76,7 +76,7 @@ A receding hare-line.` ,
 What does Charles Dickens keep in his spice rack?
 The best of thymes, the worst of thymes.` ,
 
-`What’s the different between a cat and a comma?
+`What is the different between a cat and a comma?
 A cat has claws at the end of paws; A comma is a pause at the end of a clause. Don’t forget to bookmark these other “what’s the difference between” jokes that will crack you up.` ,
 
 `Why should the number 288 never be mentioned?
