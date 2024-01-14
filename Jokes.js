@@ -66,7 +66,7 @@ The doctor replies, “Sorry, I don’t follow you …”` ,
 
 `What kind of exercise do lazy people do?
 Diddly-squats
-Why don’t Calculus majors throw house parties?
+Why do not Calculus majors throw house parties?
 Because you should never drink and derive.` ,
 
 `What do you call a parade of rabbits hopping backwards?
