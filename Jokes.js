@@ -24,7 +24,7 @@ Con…
 OK, now you say, “Control Freak who?”` , 
 
 `Hear about the new restaurant called Karma?
-There’s no menu: You get what you deserve.` ,
+There is no menu: You get what you deserve.` ,
 
 `A woman in labor suddenly shouted, “Shouldn’t! Wouldn’t! Couldn’t! Didn’t! Can’t!”
 “Do not worry,” said the doc. “Those are just contractions.”` ,
