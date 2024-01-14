@@ -35,7 +35,7 @@ Did you hear about the actor who fell through the floorboards?
 He was just going through a stage
 Did you hear about the claustrophobic astronaut?
 He just needed a little space
-Why don’t scientists trust atoms?
+Why do not scientists trust atoms?
 Because they make up everything.` ,
 
 `RELATED: Biology Joke
