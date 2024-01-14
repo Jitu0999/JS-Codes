@@ -57,7 +57,7 @@ How does Moses make tea?
 He brews.` ,
 
 `why can't you explain puns to kleptomani
-Why can’t you explain puns to kleptomaniacs?
+Why can not you explain puns to kleptomaniacs?
 They always take things literally
 How do you keep a bagel from getting away?
 Put lox on it
