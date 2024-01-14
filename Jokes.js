@@ -18,7 +18,7 @@ Because every play has a cast. Here are some dark jokes to check out if you have
 Once my dog ate all the Scrabble tiles. For days he kept leaving little messages around the house. Don’t miss these hilarious egg puns that will absolutely crack you up.` ,
 
 `Knock! Knock!
-Who’s there?
+Who is there?
 Control Freak.
 Con…
 OK, now you say, “Control Freak who?”` , 
