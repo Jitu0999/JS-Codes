@@ -26,7 +26,7 @@ OK, now you say, “Control Freak who?”` ,
 `Hear about the new restaurant called Karma?
 There is no menu: You get what you deserve.` ,
 
-`A woman in labor suddenly shouted, “Should not! Would not! Could not! Didn’t! Can’t!”
+`A woman in labor suddenly shouted, “Should not! Would not! Could not! Did not! Can’t!”
 “Do not worry,” said the doc. “Those are just contractions.”` ,
 
 `A bear walks into a bar and says, “Give me a whiskey and … cola.”
