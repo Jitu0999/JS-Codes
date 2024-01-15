@@ -14,7 +14,7 @@ Because every play has a cast. Here are some dark jokes to check out if you have
 `Helvetica and Times New Roman walk into a bar.
 “Get out of here!” shouts the bartender. “We don’t serve your type.”` ,
 
-`Yesterday I saw a guy spill all his Scrabble letters on the road. I asked him, “What’s the word on the street?”
+`Yesterday I saw a guy spill all his Scrabble letters on the road. I asked him, “What is the word on the street?”
 Once my dog ate all the Scrabble tiles. For days he kept leaving little messages around the house. Do not miss these hilarious egg puns that will absolutely crack you up.` ,
 
 `Knock! Knock!
