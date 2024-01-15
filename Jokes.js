@@ -30,7 +30,7 @@ There is no menu: You get what you deserve.` ,
 “Do not worry,” said the doc. “Those are just contractions.”` ,
 
 `A bear walks into a bar and says, “Give me a whiskey and … cola.”
-“Why the big pause?” asks the bartender. The bear shrugged. “I’m not sure; I was born with them.
+“Why the big pause?” asks the bartender. The bear shrugged. “I am not sure; I was born with them.
 Did you hear about the actor who fell through the floorboards?
 He was just going through a stage
 Did you hear about the claustrophobic astronaut?
