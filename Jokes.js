@@ -1,5 +1,5 @@
 
-[`What’s the best thing about Switzerland?
+[`What is the best thing about Switzerland?
 I do not know, but the flag is a big plus.` ,
 
 `I invented a new word!
