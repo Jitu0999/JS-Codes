@@ -336,4 +336,4 @@ A gummy bear.` ,
 
 `Why could not the leopard play hide and seek?
 Because he was always spotted. 
-Now that you have learned 101 new short jokes to share with your friends, check out these classic Laffy Taffy jokes`]
+Now that you have learned 101 new short jokes to share with your friends, check out these classic`]
