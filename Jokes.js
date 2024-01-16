@@ -1,6 +1,6 @@
 
 [`What’s the best thing about Switzerland?
-I don’t know, but the flag is a big plus.` ,
+I do not know, but the flag is a big plus.` ,
 
 `I invented a new word!
 Plagiarism!` ,
