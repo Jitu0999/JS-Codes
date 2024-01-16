@@ -335,5 +335,4 @@ They just log on!` ,
 A gummy bear.` ,
 
 `Why could not the leopard play hide and seek?
-Because he was always spotted. 
-Now that you have learned 101 new`]
+Because he was always spotted.`]
