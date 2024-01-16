@@ -6,7 +6,7 @@ I don’t know, but the flag is a big plus.` ,
 Plagiarism!` ,
 
 `Did you hear about the mathematician who’s afraid of negative numbers?
-He’ll stop at nothing to avoid them.` ,
+He will stop at nothing to avoid them.` ,
 
 `Why do we tell actors to “break a leg?”
 Because every play has a cast. Here are some dark jokes to check out if you have a morbid sense of humor.` ,
