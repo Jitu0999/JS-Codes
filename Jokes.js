@@ -5,7 +5,7 @@ I don’t know, but the flag is a big plus.` ,
 `I invented a new word!
 Plagiarism!` ,
 
-`Did you hear about the mathematician who’s afraid of negative numbers?
+`Did you hear about the mathematician who is afraid of negative numbers?
 He will stop at nothing to avoid them.` ,
 
 `Why do we tell actors to “break a leg?”
