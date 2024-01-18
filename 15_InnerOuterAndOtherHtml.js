@@ -2,7 +2,8 @@
 CHAPTER 8
 
 Console.dir function.
-console.log -> Show the element Dom tree
+console.log -> Shows the element Dom tree
+console.dir -> Shows the element as an boject with its.
 
 
 
