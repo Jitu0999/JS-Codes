@@ -10,5 +10,7 @@ Used to read tag name of an element.
 tagName -> Only exists for Element Nodes. 
 nodeName -> Defined for any node (text, comment etc.) 
 
+Inner HTML and Outer HTML :-
+
 
 */
