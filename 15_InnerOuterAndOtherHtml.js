@@ -14,7 +14,7 @@ Inner HTML and Outer HTML :-
 The innerHTML property allows to get the HTML inside the element as a string.(valid for element nodes only)
 
 The Outer HTML property contains the full HTML. (inner HTML + the element itself.)
-
+Inner HTML is valid only for element nodes. For other node types we can use node value or data.
 
 
 
