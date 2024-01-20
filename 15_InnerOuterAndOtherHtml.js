@@ -23,8 +23,8 @@ The Hidden peoperty.
 The 'Hidden' attribut and the DOM property specifies whether the element is visible or not.
 <div hidden> I Am Diddne </div>
 <div id = 'element'> I Can be Hidden</div>
-
-
+<script>
+    
 
 
 */
