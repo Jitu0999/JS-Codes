@@ -27,7 +27,7 @@ The 'Hidden' attribut and the DOM property specifies whether the element is visi
     element.hiddne=true;
 </script>
 
-
+Attribute Methods:-
 
 
 */
