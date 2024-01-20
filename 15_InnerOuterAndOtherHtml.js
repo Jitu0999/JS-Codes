@@ -17,6 +17,8 @@ The Outer HTML property contains the full HTML. (inner HTML + the element itself
 Inner HTML is valid only for element nodes. For other node types we can use node value or data.
 
 Text Content :-
+Provides access to the text inside the element. Only text, minus all tags.
+
 
 
 
