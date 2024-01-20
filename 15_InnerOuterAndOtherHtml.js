@@ -22,6 +22,7 @@ Provides access to the text inside the element. Only text, minus all tags.
 The Hidden peoperty.
 The 'Hidden' attribut and the DOM property specifies whether the element is visible or not.
 <div hidden> I Am Diddne </div>
+<div id = 'element'> I Can be Hidden</div>
 
 
 
