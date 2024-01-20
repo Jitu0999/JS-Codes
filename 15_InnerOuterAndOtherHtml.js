@@ -19,7 +19,8 @@ Inner HTML is valid only for element nodes. For other node types we can use node
 Text Content :-
 Provides access to the text inside the element. Only text, minus all tags.
 
-The Hiddent peoperty.
+The Hidden peoperty.
+The 'Hidden' attribut and the DOM property specifies whether the element is visible or not.
 
 
 
