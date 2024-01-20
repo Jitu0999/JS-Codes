@@ -24,7 +24,8 @@ The 'Hidden' attribut and the DOM property specifies whether the element is visi
 <div hidden> I Am Diddne </div>
 <div id = 'element'> I Can be Hidden</div>
 <script>
-    
+    element.hiddne=true;
+</script>
 
 
 */
