@@ -28,6 +28,7 @@ The 'Hidden' attribut and the DOM property specifies whether the element is visi
 </script>
 
 Attribute Methods:-
+1. elem.hasAttribute (name) -> Method to check for existence of an attribute.
 
 
 */
