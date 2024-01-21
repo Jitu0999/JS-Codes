@@ -31,6 +31,7 @@ Attribute Methods:-
 1. elem.hasAttribute (name) -> Method to check for existence of an attribute.
 2. elem.getAttribute (name) -> Method use to get the value of an attribute.
 3. elem.setAttribute (name, value) -> Method use to set the value of an attribute.
+4. elem.removeAttribute (name) -> Method to remove the attribute from elem.
 
 
 */
