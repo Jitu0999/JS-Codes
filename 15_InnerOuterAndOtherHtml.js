@@ -30,6 +30,6 @@ The 'Hidden' attribut and the DOM property specifies whether the element is visi
 Attribute Methods:-
 1. elem.hasAttribute (name) -> Method to check for existence of an attribute.
 2. elem.getAttribute (name) -> Method use to get the value of an attribute.
-3. 
+3. elem.setAttribute ()
 
 */
