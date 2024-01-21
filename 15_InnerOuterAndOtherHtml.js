@@ -32,6 +32,6 @@ Attribute Methods:-
 2. elem.getAttribute (name) -> Method use to get the value of an attribute.
 3. elem.setAttribute (name, value) -> Method use to set the value of an attribute.
 4. elem.removeAttribute (name) -> Method to remove the attribute from elem.
-
+5. elem.attributes -> Method to get the collection of all attributs
 
 */
