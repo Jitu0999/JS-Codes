@@ -37,6 +37,7 @@ Attribute Methods:-
 Data Attributs:-
 We can always creats custom attributs but the ones starting with 'data' reserved for programmers use.
 They are availabe in a property named dataset.
+If an element has an attribut named 'data-one'.
  
 
 
