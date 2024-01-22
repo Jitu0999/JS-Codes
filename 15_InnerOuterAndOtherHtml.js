@@ -41,6 +41,7 @@ If an element has an attribut named 'data-one'.
 Its availabe as element.dataset.one
 
 Insertion methods:-
+We looked at some ways to insert elements in the DOM. Here is another ways-
 
 
 
