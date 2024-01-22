@@ -34,4 +34,15 @@ Attribute Methods:-
 4. elem.removeAttribute (name) -> Method to remove the attribute from elem.
 5. elem.attributes -> Method to get the collection of all attributs
 
+Data Attributs:-
+
+
+
+
+
+
+
+
+
+
 */
