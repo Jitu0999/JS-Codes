@@ -35,7 +35,8 @@ Attribute Methods:-
 5. elem.attributes -> Method to get the collection of all attributs
 
 Data Attributs:-
-We can always creats custom attributs but 
+We can always creats custom attributs but the ones starting with 'data' reserved for programmers use.
+ 
 
 
 
