@@ -40,6 +40,8 @@ They are availabe in a property named dataset.
 If an element has an attribut named 'data-one'.
 Its availabe as element.dataset.one
 
+Insertion methods:-
+
 
 
 
