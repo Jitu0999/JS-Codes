@@ -48,8 +48,8 @@ div.innerHTML = <span> Hello </span>
 document.body.append(div)
 
 Here are some more insertion methods:-
-1. node.append(e) -> append at the end of node.
-
+1. node.append(e) -> Append at the end of node.
+2. node.prepend(e) -> Insert at the begning of node.
 
 
 
