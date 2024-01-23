@@ -54,6 +54,8 @@ Here are some more insertion methods:-
 4. node.after(e) -> Insert after node.
 5. node.replaceWith(e) -> Replaces node with given node.
 
+QUICK QUIZ--
+
 
 
 
