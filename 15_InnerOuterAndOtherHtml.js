@@ -51,7 +51,10 @@ Here are some more insertion methods:-
 1. node.append(e) -> Append at the end of node.
 2. node.prepend(e) -> Insert at the begning of node.
 3. node.before(e) -> Insert before node.
-4. 
+4. node.after(e) -> Insert after node.
+5. node.replaceWith(e) -> Replaces node with given node.
+
+
 
 
 
