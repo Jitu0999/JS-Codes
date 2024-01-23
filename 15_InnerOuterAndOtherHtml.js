@@ -47,6 +47,7 @@ div.className = "alert" // set class.
 div.innerHTML = <span> Hello </span>
 document.body.append(div)
 
+Here are some more insertion methods:-
 
 
 
