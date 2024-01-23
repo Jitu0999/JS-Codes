@@ -55,6 +55,7 @@ Here are some more insertion methods:-
 5. node.replaceWith(e) -> Replaces node with given node.
 
 QUICK QUIZ--
+Try out all these methods with one webpage.
 
 
 
