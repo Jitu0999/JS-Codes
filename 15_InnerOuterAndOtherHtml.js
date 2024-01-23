@@ -43,6 +43,7 @@ Its availabe as element.dataset.one
 Insertion methods:-
 We looked at some ways to insert elements in the DOM. Here is another ways-
 let div = document.createElement('div') // Create.
+div.className = "alert" // set class.
 
 
 
