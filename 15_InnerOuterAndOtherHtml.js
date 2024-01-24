@@ -64,6 +64,7 @@ Must be one of the following---
 1. "beforebegin" - Insert HTML immediatly before element.
 2. "afterbegin" - Insert HTML in to element at the begining.
 3. "beforeend" - Insert HTML in to element at the end.
+4. "afterend" - Insert HTML immediately after element.
 
 
 
