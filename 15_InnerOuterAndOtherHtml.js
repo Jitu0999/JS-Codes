@@ -57,8 +57,7 @@ Here are some more insertion methods:-
 QUICK QUIZ--
 Try out all these methods with one webpage.
 
-
-
+insertAdjacent HTML/Text/Element :-
 
 
 
