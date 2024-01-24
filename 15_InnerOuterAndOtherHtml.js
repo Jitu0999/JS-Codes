@@ -59,7 +59,7 @@ Try out all these methods with one webpage.
 
 insertAdjacent HTML/Text/Element :-
 This method is used to insert HTML.
-
+The first parameter is a code word, 
 
 
 
