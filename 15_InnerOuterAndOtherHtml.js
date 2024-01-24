@@ -58,6 +58,7 @@ QUICK QUIZ--
 Try out all these methods with one webpage.
 
 insertAdjacent HTML/Text/Element :-
+This method is used to insert HTML.
 
 
 
