@@ -61,7 +61,8 @@ insertAdjacent HTML/Text/Element :-
 This method is used to insert HTML.
 The first parameter is a code word, Specifying where to insert.
 Must be one of the following---
-1. 
+1. "beforebegin" - Insert HTML immediatly before element.
+2. ""
 
 
 
