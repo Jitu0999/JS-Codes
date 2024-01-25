@@ -75,6 +75,7 @@ div.insertAdjecentHTML ('beforebegin', '<p> Hellow </p>');
 div.insertAdjecentHTML ('afterend', '<p> Bye </p>');
 </script>
 
+The output would be --
 
 
 
