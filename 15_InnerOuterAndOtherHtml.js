@@ -71,8 +71,9 @@ Example-
 
 <div id="div"></div>
 <script>
-div.insertAdjecentHTML ('beforebegin','<p> Hellow </p>');
-
+div.insertAdjecentHTML ('beforebegin', '<p> Hellow </p>');
+div.insertAdjecentHTML ('afterend', '<p> Bye </p>');
+<script>
 
 
 
