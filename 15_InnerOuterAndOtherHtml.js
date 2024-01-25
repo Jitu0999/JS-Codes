@@ -69,6 +69,8 @@ Must be one of the following---
 The second parameter is an HTML string.
 Example-
 
+<div id="div"></div>
+
 
 
 
