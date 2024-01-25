@@ -77,6 +77,8 @@ div.insertAdjecentHTML ('afterend', '<p> Bye </p>');
 
 The output would be --
 
+<p> Hello </p>
+
 
 
 
