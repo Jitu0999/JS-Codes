@@ -71,6 +71,7 @@ Example-
 
 <div id="div"></div>
 <script>
+div.insertAdjecentHTML ('beforebegin','<p> Hellow </p>');
 
 
 
