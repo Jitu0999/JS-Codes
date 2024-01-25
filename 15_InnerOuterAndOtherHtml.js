@@ -67,6 +67,7 @@ Must be one of the following---
 4. "afterend" - Insert HTML immediately after element.
 
 The second parameter is an HTML string.
+Example-
 
 
 
