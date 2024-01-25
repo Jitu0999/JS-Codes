@@ -70,6 +70,7 @@ The second parameter is an HTML string.
 Example-
 
 <div id="div"></div>
+<script>
 
 
 
