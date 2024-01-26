@@ -82,6 +82,6 @@ The output would be --
 <p> Bye </p>
 
 Node Removal :-
-To remove a node, there's a method node.Remove()
+To remove a node, there's a method node.remove()
 
 let id1 = document.getElementById("id1")
