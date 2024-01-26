@@ -81,6 +81,8 @@ The output would be --
 <div id="div"> </div>
 <p> Bye </p>
 
+Node Removal :-
+
 
 
 
