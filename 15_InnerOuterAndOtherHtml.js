@@ -82,6 +82,7 @@ The output would be --
 <p> Bye </p>
 
 Node Removal :-
+To remove a node, there's a method node.Remove()
 
 
 
