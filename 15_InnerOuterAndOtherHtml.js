@@ -84,9 +84,4 @@ The output would be --
 Node Removal :-
 To remove a node, there's a method node.Remove()
 
-
-
-
-
-
-*/
+let id1 = document.getElementById("id1")
