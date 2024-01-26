@@ -88,4 +88,4 @@ let id1 = document.getElementById("id1")
 id1.remove()
 
 ClassName and classList
-If 
+If we assign
