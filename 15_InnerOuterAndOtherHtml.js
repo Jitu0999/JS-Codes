@@ -92,7 +92,8 @@ If we assign something to elem.className, it replaces the whole string of classe
 
 Often we want to add/remove/toggle a single class.
 1. elem.classList.add/remove("class") -> add/removes a class.
-
+2. elem.classList.toddle("class") -> adds the class if it does not exixt, Otherwise removes it.
+3. 
 
 
 
