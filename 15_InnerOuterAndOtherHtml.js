@@ -91,6 +91,7 @@ ClassName and classList
 If we assign something to elem.className, it replaces the whole string of classes.
 
 Often we want to add/remove/toggle a single class.
+1. elem.classList.add/remove("class") -> add/removes a class.
 
 
 
