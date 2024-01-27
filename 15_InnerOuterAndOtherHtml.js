@@ -88,7 +88,9 @@ let id1 = document.getElementById("id1")
 id1.remove()
 
 ClassName and classList
-If we assign 
+If we assign something to elem.className, it replaces the whole string of classes.
+
+
 
 
 
