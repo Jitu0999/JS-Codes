@@ -96,6 +96,7 @@ Often we want to add/remove/toggle a single class.
 3. elem.classList.contains("class") -> checks for the given class, returns true/fals.
 
 Set Timeout and Set Interval:-
+set Timeout allows us to run a function once after the interval of time.
 
 
 
