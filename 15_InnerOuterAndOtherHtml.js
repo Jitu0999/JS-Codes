@@ -82,10 +82,23 @@ The output would be --
 <p> Bye </p>
 
 Node Removal :-
-To remove a node, there's a method node.remove()
+To remove a node, there's a method node.remove();
 
 let id1 = document.getElementById("id1")
 id1.remove()
 
 ClassName and classList
-If we assign
+If we assign 
+
+
+
+
+
+
+
+
+
+
+
+
+*/
