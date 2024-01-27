@@ -99,9 +99,9 @@ Set Timeout and Set Interval:-
 set Timeout allows us to run a function once after the interval of time.
 
 Syntax of set Timeout is as follows-
-
-
-
+let timerId  = set Timeout(function,<delay>,<arg1>,<arg2>)
+        |                               |        
+    returns a time Id.                  In MS
 
 
 
