@@ -98,6 +98,8 @@ Often we want to add/remove/toggle a single class.
 Set Timeout and Set Interval:-
 set Timeout allows us to run a function once after the interval of time.
 
+Syntax of set Timeout is as follows-
+
 
 
 
