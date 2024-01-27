@@ -95,6 +95,7 @@ Often we want to add/remove/toggle a single class.
 2. elem.classList.toddle("class") -> adds the class if it does not exixt, Otherwise removes it.
 3. elem.classList.contains("class") -> checks for the given class, returns true/fals.
 
+Set Timeout and Set Interval:-
 
 
 
