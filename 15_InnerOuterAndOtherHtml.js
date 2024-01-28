@@ -111,6 +111,7 @@ clear Timeout (timerId)
                  Cancel the exicution.
 
 set Interval method has a similer syntax as set Timeout :-
+let timerId = set Interval(function, <delay>, <arg1>, <arg2>);
 
 
 
