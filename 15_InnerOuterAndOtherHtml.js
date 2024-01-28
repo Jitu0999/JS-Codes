@@ -112,7 +112,8 @@ clear Timeout (timerId)
 
 set Interval method has a similer syntax as set Timeout :-
 let timerId = set Interval(function, <delay>, <arg1>, <arg2>);
-
+All arguments have same meaning. But unlike set Timeout,
+it runs the function not only once,
 
 
 
