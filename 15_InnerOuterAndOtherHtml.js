@@ -105,6 +105,8 @@ let timerId  = set Timeout(function,<delay>,<arg1>,<arg2>)
 
 Clear Timeout is use to cancle the exicution(in case we change our mind).
 For Example-
+let timerId = setTimeout(() => alert("never"),1000);
+
 
 
 
