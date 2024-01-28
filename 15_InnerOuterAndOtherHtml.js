@@ -117,6 +117,8 @@ it runs the function not only once, but regularly after the given interval of ti
 
 To stop furthor cells, we can use clear Interval(timeer).
 
+Browser Events:-
+
 
 
 
