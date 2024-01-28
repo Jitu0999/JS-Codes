@@ -103,6 +103,7 @@ let timerId  = set Timeout(function,<delay>,<arg1>,<arg2>)
         |                               |        
     returns a time Id.                  In MS
 
+Clear Timeout is use to cancle the exicution(in case we change our mind).
 
 
 
