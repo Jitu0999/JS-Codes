@@ -124,7 +124,8 @@ Some importenet DOM events are:-
 Mouse events :- click, context menu(right click), mouseover/mouseout, mousedown/mouseup, mousemove.
 Keyboard events :- keydown and keyup.
 Form element event :- submit, focus etc.
-Documents events :- 
+Documents events :- DOM Content Loaded.
+
 
 
 
