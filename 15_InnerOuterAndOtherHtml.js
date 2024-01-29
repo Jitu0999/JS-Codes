@@ -118,7 +118,7 @@ it runs the function not only once, but regularly after the given interval of ti
 To stop furthor cells, we can use clear Interval(timer).
 
 Browser Events:-
-An event is a signal that something has append.
+An event is a signal that something has append. All the DOM nodes generate such signals.
 
 
 
