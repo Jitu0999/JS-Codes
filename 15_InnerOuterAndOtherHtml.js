@@ -122,7 +122,7 @@ An event is a signal that something has append. All the DOM nodes generate such 
 
 Some importenet DOM events are:-
 Mouse events :- click, context menu(right click), mouseover/mouseout, mousedown/mouseup, mousemove.
-
+Keyboard events :- keydown and keyup.
 
 
 
