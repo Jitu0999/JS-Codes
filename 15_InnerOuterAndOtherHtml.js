@@ -120,6 +120,7 @@ To stop furthor cells, we can use clear Interval(timer).
 Browser Events:-
 An event is a signal that something has append. All the DOM nodes generate such signals.
 
+Some importenet DOM events are:-
 
 
 
