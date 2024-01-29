@@ -121,6 +121,7 @@ Browser Events:-
 An event is a signal that something has append. All the DOM nodes generate such signals.
 
 Some importenet DOM events are:-
+Mouse events :- 
 
 
 
