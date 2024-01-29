@@ -115,7 +115,7 @@ let timerId = set Interval(function, <delay>, <arg1>, <arg2>);
 All arguments have same meaning. But unlike set Timeout,
 it runs the function not only once, but regularly after the given interval of time.
 
-To stop furthor cells, we can use clear Interval(timeer).
+To stop furthor cells, we can use clear Interval(timer).
 
 Browser Events:-
 
