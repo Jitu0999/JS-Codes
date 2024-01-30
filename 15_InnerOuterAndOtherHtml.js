@@ -129,6 +129,8 @@ Documents events :- DOM Content Loaded.
 Handling Events :-
 Events can be handled through HTML attributes.
 <input value = "Hey" onclick="alert('hey')" type="button">
+                                |
+                            Can be another JS function.
 
 
 
