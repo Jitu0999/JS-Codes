@@ -132,7 +132,7 @@ Events can be handled through HTML attributes.
                                 |
                             Can be another JS function.
 Events can also be handled through the onclick property.
-elem.onclick 
+elem.onclick = function()
 
 
 
