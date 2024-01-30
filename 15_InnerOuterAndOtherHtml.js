@@ -131,6 +131,7 @@ Events can be handled through HTML attributes.
 <input value = "Hey" onclick="alert('hey')" type="button">
                                 |
                             Can be another JS function.
+Events can also be handled through the onclick property.
 
 
 
