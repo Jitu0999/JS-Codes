@@ -127,7 +127,7 @@ Form element event :- submit, focus etc.
 Documents events :- DOM Content Loaded.
 
 Handling Events :-
-
+Events can be handled through HTML attributes.
 
 
 
