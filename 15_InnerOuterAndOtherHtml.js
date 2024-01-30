@@ -126,6 +126,7 @@ Keyboard events :- keydown and keyup.
 Form element event :- submit, focus etc.
 Documents events :- DOM Content Loaded.
 
+Handling Events :-
 
 
 
