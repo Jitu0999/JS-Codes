@@ -142,7 +142,8 @@ addEventListner is used to assign multiple handlers to an events.
 
 element.addEventListner(event, handler)
 element.removeEventListner(event, handler)
-
+                        |
+                handler must be the same function object for this to work.
 
 
 
