@@ -141,7 +141,8 @@ addEventListner and removeEventListner ---
 addEventListner is used to assign multiple handlers to an events.
 
 element.addEventListner(event, handler)
-element.removeEventListner
+element.removeEventListner(event, handler)
+
 
 
 
