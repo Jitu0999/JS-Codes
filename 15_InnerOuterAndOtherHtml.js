@@ -137,6 +137,7 @@ elem.onclick = function(){
                     };
 
 Note :- Adding a handler with javaScript overwrites the existing handler ====
+addEventListner and removeEventListner ---
 
 
 
