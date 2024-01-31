@@ -140,6 +140,8 @@ Note :- Adding a handler with javaScript overwrites the existing handler ====
 addEventListner and removeEventListner ---
 addEventListner is used to assign multiple handlers to an events.
 
+element.addEventListner
+
 
 
 
