@@ -136,7 +136,8 @@ elem.onclick = function(){
                 alert("yes")
                     };
 
-Note :- 
+Note :- Adding a handler with javaScript overwrites the existing handler ====
+
 
 
 
