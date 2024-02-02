@@ -148,6 +148,9 @@ element.removeEventListner(event, handler)
 The Event Object:-
 When an event happens, the browser creats an events object, puts details into it and prasses it as an argument to the handler.
 
+elem.onclick = function (event) {
+    ...
+}
 
 
 
