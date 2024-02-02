@@ -153,6 +153,7 @@ elem.onclick = function (event) {
 }
 
 event.type : Event type.
+event.currentTarget : Element that handled the event.
 
 
 
