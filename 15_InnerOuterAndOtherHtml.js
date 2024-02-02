@@ -152,6 +152,8 @@ elem.onclick = function (event) {
     ...
 }
 
+event.type : Event type.
+
 
 
 
