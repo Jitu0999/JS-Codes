@@ -146,6 +146,7 @@ element.removeEventListner(event, handler)
                 handler must be the same function object for this to work.
 
 The Event Object:-
+When an event happens, the browser creats an events object, puts details into it and prasses it as an argument to the handler.
 
 
 
