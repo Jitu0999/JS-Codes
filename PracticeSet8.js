@@ -1,3 +1,3 @@
 /*
-Q.1 Write a program
+Q.1 Write a program to show different alerts
 */
