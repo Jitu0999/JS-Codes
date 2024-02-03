@@ -154,7 +154,7 @@ elem.onclick = function (event) {
 
 event.type : Event type.
 event.currentTarget : Element that handled the event.
-event.clientX / event.clientY : Coordinates of the cursor.
+event.clientX/event.clientY : Coordinates of the cursor.
 
 
 
