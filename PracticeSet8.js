@@ -9,6 +9,6 @@ Q.2 Create a website which is capable of storing bookmarks of yor favorite websi
 */
 
 /*
-Q.3 Repeat Q2 
+Q.3 Repeat Q.2  
 
 */
