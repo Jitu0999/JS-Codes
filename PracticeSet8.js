@@ -14,5 +14,5 @@ Q.3 Repeat Q.2 using event listners?
 */
 
 /*
-Write a javaScript programm
+Write a javaScript program to keep 
 */
