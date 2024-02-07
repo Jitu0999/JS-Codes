@@ -17,3 +17,5 @@ Q.3 Repeat Q.2 using event listners?
 Q.4 Write a javaScript program to keep fetching contents of a website (Every 5 seconds). 
 
 */
+
+/
