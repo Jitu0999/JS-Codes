@@ -19,5 +19,5 @@ Q.4 Write a javaScript program to keep fetching contents of a website (Every 5 s
 */
 
 /*
-Q.5 Create a glowing blub effect
+Q.5 Create a glowing blub effect 
 */
