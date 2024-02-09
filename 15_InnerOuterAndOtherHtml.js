@@ -158,6 +158,7 @@ event.clientX/event.clientY : Coordinates of the cursor.
 
 */
 
+let x = document.getElementsByTagName('span')[0]
 
 
 
