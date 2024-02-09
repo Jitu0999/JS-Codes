@@ -161,7 +161,7 @@ event.clientX/event.clientY : Coordinates of the cursor.
 let x = document.getElementsByTagName('span')[0]
 console.log(x);
 let y = document.getElementsByTagName('span')[1]
-
+console.dir(y)
 
 
 
