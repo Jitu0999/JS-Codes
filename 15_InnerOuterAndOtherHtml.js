@@ -167,7 +167,8 @@ console.log(document.body.firstElementChild.nodeName);
 
 first.innerHTML
 first.innerHTML = "<i>Hey I am Italic</i>"
-
+first.outerHTML
+first.outerHTML = "<div>hey</div>"
 
 
 
