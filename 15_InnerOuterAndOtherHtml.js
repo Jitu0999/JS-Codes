@@ -164,8 +164,6 @@ let y = document.getElementsByTagName('span')[0]
 console.dir(y)
 
 
-console.log(document.body.firstChild.nodeName);
-console.log(document.body.firstElementChild.nodeName);
 
 
 4.22/11.35
