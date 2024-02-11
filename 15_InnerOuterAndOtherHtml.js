@@ -167,6 +167,7 @@ console.log(document.body.firstChild.nodeName);
 console.log(document.body.firstElementChild.nodeName);
 
 // innerHTML and outerHTML:-
+// Note - innerHTML only valid for elements nodes.
 first.innerHTML
 first.innerHTML = "<i>Hey I am Italic</i>"
 first.outerHTML
