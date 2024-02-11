@@ -157,6 +157,7 @@ event.currentTarget : Element that handled the event.
 event.clientX/event.clientY : Coordinates of the cursor.
 
 */
+// ______________________________________________________________________________
 
 // TagName and nodeName:-
 let x = document.getElementsByTagName('span')[0]
