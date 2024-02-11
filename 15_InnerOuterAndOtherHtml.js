@@ -159,6 +159,7 @@ event.clientX/event.clientY : Coordinates of the cursor.
 */
 // ______________________________________________________________________________
 
+/*
 // TagName and nodeName:-
 let x = document.getElementsByTagName('span')[0]
 console.log(x);
@@ -173,7 +174,16 @@ first.innerHTML
 first.innerHTML = "<i>Hey I am Italic</i>"
 first.outerHTML
 first.outerHTML = "<div>hey</div>"
-
+*/
+Document.body.firstChild
+document.body.firstChild.data
+'\n  '
+document.body.firstElementChild.data
+undefined
+document.body.firstChild.data
+'\n  '
+document.body.firstChild.nodeValue
+'\n  '
 // Text Content:-
 
 
