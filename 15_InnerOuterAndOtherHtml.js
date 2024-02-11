@@ -174,6 +174,7 @@ first.innerHTML = "<i>Hey I am Italic</i>"
 first.outerHTML
 first.outerHTML = "<div>hey</div>"
 
+// Text Content:-
 
 
 7.30/11.35
