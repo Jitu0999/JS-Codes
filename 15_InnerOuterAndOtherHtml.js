@@ -180,7 +180,7 @@ document.body.firstChild.data
 document.body.firstElementChild.data
 document.body.firstChild.data
 document.body.firstChild.nodeValue
-'\n  '
+
 // Text Content:-
 
 
