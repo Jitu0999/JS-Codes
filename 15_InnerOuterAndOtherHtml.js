@@ -178,7 +178,6 @@ first.outerHTML = "<div>hey</div>"
 Document.body.firstChild
 document.body.firstChild.data
 document.body.firstElementChild.data
-undefined
 document.body.firstChild.data
 '\n  '
 document.body.firstChild.nodeValue
