@@ -179,7 +179,6 @@ Document.body.firstChild
 document.body.firstChild.data
 document.body.firstElementChild.data
 document.body.firstChild.data
-'\n  '
 document.body.firstChild.nodeValue
 '\n  '
 // Text Content:-
