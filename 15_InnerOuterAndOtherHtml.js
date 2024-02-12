@@ -194,8 +194,6 @@ first.style.display = "none"
 
 
 
-8.25/11.35
-
 
 
 
