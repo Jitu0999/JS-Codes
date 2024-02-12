@@ -187,6 +187,7 @@ console.log(document.body.textContent)
 
 // Hidden Property:-
 first.hidden = false
+first.style.display = "none"
 
 
 
