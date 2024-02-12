@@ -182,6 +182,7 @@ document.body.firstChild.data
 document.body.firstChild.nodeValue
 
 // Text Content:-
+document.body.firstChild.data;
 console.log(document.body.textContent);
 
 
