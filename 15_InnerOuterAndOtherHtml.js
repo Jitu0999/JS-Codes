@@ -184,7 +184,7 @@ document.body.firstChild.nodeValue
 // Text Content:-
 
 
-7.30/11.35
+8.25/11.35
 
 
 
