@@ -182,7 +182,8 @@ document.body.firstChild.data
 document.body.firstChild.nodeValue
 
 // Text Content:-
-console.log(document.body.textContent)
+console.log(document.body.textContent);
+
 
 
 
