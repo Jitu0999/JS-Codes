@@ -186,6 +186,7 @@ document.body.firstChild.data
 console.log(document.body.textContent)
 
 // Hidden Property:-
+first.hidden = false
 
 
 
