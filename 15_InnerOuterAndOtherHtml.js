@@ -191,7 +191,7 @@ first.style.display = "none"
 */
 
 // HTML Attributes Methods:--
-
+let a = first.getAttribute("class")
 
 
 
