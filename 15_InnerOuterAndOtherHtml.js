@@ -189,7 +189,7 @@ console.log(document.body.textContent)
 first.hidden = false
 first.style.display = "none"
 
-// HTML Attributes Methods:-
+// HTML Attributes Methods:--
 
 
 
