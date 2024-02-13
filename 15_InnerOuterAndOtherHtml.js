@@ -174,7 +174,7 @@ first.innerHTML
 first.innerHTML = "<i>Hey I am Italic</i>"
 first.outerHTML
 first.outerHTML = "<div>hey</div>"
-*/
+
 Document.body.firstChild
 document.body.firstChild.data
 document.body.firstElementChild.data
@@ -188,6 +188,7 @@ console.log(document.body.textContent)
 // Hidden Property:-
 first.hidden = false
 first.style.display = "none"
+*/
 
 // HTML Attributes Methods:--
 
