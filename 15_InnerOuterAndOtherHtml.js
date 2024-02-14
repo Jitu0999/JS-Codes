@@ -195,7 +195,7 @@ let a = first.getAttribute("class")
 console.log(a)
 
 
-
+// 2:14/13:19
 
 
 
