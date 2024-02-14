@@ -199,7 +199,7 @@ console.log(first.hasAttribute("style"))
 first.setAttribute("hidden", "true")
 first.setAttribute("class", "true Test")
 first.removeAttribute("class")
-
+console.log(first.attributes)
 
 
 // 2:14/13:19
