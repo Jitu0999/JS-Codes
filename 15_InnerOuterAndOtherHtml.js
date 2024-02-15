@@ -188,7 +188,7 @@ console.log(document.body.textContent)
 // Hidden Property:-
 first.hidden = false
 first.style.display = "none"
-*/
+
 
 // HTML Attributes Methods:--
 let first = document.getElementById("first");
@@ -201,6 +201,7 @@ first.setAttribute("class", "true Test")
 first.removeAttribute("class")
 console.log(first.attributes)
 
+*/
 // Data -* Attributs:-
 
 
