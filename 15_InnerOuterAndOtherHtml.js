@@ -203,7 +203,7 @@ console.log(first.attributes)
 
 */
 // Data -* Attributs:-
-
+console.log(first.dataset)
 
 
 
