@@ -204,7 +204,7 @@ console.log(first.attributes)
 */
 // Data -* Attributs:-
 console.log(first.dataset)
-
+console.log(first.dataset.game)
 
 
 
