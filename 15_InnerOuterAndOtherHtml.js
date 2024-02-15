@@ -201,6 +201,15 @@ first.setAttribute("class", "true Test")
 first.removeAttribute("class")
 console.log(first.attributes)
 
+// Data * Attributs:-
+
+
+
+
+
+
+
+
 
 // 7:45/13:19
 
