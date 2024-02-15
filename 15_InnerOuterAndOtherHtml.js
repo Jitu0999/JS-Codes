@@ -202,7 +202,7 @@ first.removeAttribute("class")
 console.log(first.attributes)
 
 
-// 2:14/13:19
+// 7:45/13:19
 
 
 
