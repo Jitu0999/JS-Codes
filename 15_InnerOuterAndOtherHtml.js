@@ -34,7 +34,7 @@ Attribute Methods:-
 4. elem.removeAttribute (name) -> Method to remove the attribute from elem.
 5. elem.attributes -> Method to get the collection of all attributs
 
-Data Attributs:-
+Data * Attributs:-
 We can always creats custom attributs but the ones starting with 'data' reserved for programmers use.
 They are availabe in a property named dataset.
 If an element has an attribut named 'data-one'.
