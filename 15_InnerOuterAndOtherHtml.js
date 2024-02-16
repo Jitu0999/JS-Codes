@@ -208,7 +208,7 @@ console.log(first.dataset.player)
 
 */
 // Insertion Methods :-
-
+let a = document.getElementsByTagName('div')[0]
 
 
 
