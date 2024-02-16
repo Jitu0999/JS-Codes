@@ -201,13 +201,12 @@ first.setAttribute("class", "true Test")
 first.removeAttribute("class")
 console.log(first.attributes)
 
-*/
 // Data -* Attributs:-
 console.log(first.dataset)
 console.log(first.dataset.game)
 console.log(first.dataset.player)
 
-
+*/
 
 
 
