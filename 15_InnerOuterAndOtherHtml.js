@@ -207,6 +207,7 @@ console.log(first.dataset.game)
 console.log(first.dataset.player)
 
 */
+// Insertion Method :-
 
 
 
