@@ -216,8 +216,8 @@ div.innerHTML = '<h2>Hello Jitu...</h2>';
 //a.append(div);
 //a.prepend(div);
 //a.before(div)
-a.after(div)
-
+//a.after(div)
+a.replaceWith(div)
 
 
 
