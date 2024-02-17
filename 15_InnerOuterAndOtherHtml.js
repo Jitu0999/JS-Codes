@@ -215,7 +215,7 @@ div.innerHTML = '<h2>Hello Jitu...</h2>';
 //a.appendChild(div);
 //a.append(div);
 //a.prepend(div);
-a.before(div)
+//a.before(div)
 
 
 
