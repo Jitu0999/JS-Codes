@@ -221,7 +221,10 @@ a.replaceWith(div)
 */
 
 //insertAdjacent HTML/Text/Element :-
+first.insertAdjacentHTML('beforebegin', '<div class="test">Beforebegin</div>');
 first.insertAdjacentHTML('beforeend', '<div class="test">Beforeend</div>');
+
+
 
 
 
