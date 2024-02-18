@@ -206,7 +206,7 @@ console.log(first.dataset)
 console.log(first.dataset.game)
 console.log(first.dataset.player)
 
-*/
+
 // Insertion Methods :-
 let a = document.getElementsByTagName('div')[0]
 a.innerHTML = a.innerHTML + '<h1>Hello World!</h1>';
@@ -218,6 +218,9 @@ div.innerHTML = '<h2>Hello Jitu...</h2>';
 //a.before(div)
 //a.after(div)
 a.replaceWith(div)
+*/
+
+//insertAdjacent HTML/Text/Element :-
 
 
 
@@ -225,10 +228,7 @@ a.replaceWith(div)
 
 
 
-
-
-
-// 3:50/9:57
+// 44 - 00:00/00:00
 
 
 
