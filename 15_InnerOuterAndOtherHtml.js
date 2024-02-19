@@ -218,7 +218,6 @@ div.innerHTML = '<h2>Hello Jitu...</h2>';
 //a.before(div)
 //a.after(div)
 a.replaceWith(div)
-*/
 
 //insertAdjacent HTML/Text/Element :-
 first.insertAdjacentHTML('beforebegin', '<div class="test"> Before begin</div>');
@@ -226,7 +225,7 @@ first.insertAdjacentHTML('beforeend', '<div class="test"> Before end</div>');
 first.insertAdjacentHTML('afterbegin', '<div class="test"> After begin</div>');
 first.insertAdjacentHTML('afterend', '<div class="test"> After end</div>');
 
-
+// Node Removal :-
 
 
 
