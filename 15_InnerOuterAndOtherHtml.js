@@ -228,7 +228,7 @@ first.insertAdjacentHTML('afterend', '<div class="test"> After end</div>');
 // Node Removal :-
 first.remove()
 
-
+// ClassName and classList:-
 
 
 
