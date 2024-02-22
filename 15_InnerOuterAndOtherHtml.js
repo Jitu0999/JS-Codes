@@ -229,7 +229,7 @@ first.insertAdjacentHTML('afterend', '<div class="test"> After end</div>');
 first.remove()
 */
 // className and classList:-
-first.class = "text-black red"
+first.className = "text-black red"
 
 
 // 45 - 02:30/09:49
