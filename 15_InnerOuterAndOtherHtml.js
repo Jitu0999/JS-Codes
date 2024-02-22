@@ -231,7 +231,7 @@ first.remove()
 // className and classList:-
 first.className = "text-black red"
 first.classList.add("red")
-
+first.classList.remove("red")
 
 
 
