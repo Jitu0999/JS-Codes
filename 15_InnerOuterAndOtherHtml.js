@@ -230,6 +230,7 @@ first.remove()
 */
 // className and classList:-
 first.className = "text-black red"
+first.classList.add("red")
 
 
 // 45 - 02:30/09:49
