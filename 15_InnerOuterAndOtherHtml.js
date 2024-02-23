@@ -239,7 +239,7 @@ first.classList.toggle("red")
 document.write("Hello")
 setTimeout(function(){
     alert("I am inside of Set Timeout")
-}, 2000)
+}, 5000)
 
 
 // 46 - 00:00/00:00
