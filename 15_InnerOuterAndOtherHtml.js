@@ -236,7 +236,7 @@ first.classList.contains("red")
 first.classList.toggle("red")
 */
 // setInterval and setTimeout:-
-alert("Hello")
+document.write("Hello")
 setTimeout(function(){
     alert("I am inside of Set Timeout")
 }, 2000)
