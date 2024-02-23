@@ -236,7 +236,7 @@ first.classList.contains("red")
 first.classList.toggle("red")
 */
 // setInterval and setTimeout:-
-
+alert("Hello")
 
 
 // 46 - 00:00/00:00
