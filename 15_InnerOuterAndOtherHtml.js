@@ -235,7 +235,7 @@ first.classList.remove("red")
 first.classList.contains("red")
 first.classList.toggle("red")
 */
-// 
+// setInterval and setTimeout:-
 
 
 
