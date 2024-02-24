@@ -238,7 +238,7 @@ first.classList.toggle("red")
 // setInterval and setTimeout:-
 document.write("Hello")
 
-setTimeout(function(){
+let a = setTimeout(function(){
     alert("I am inside of Set Timeout")
 }, 5000)
 
