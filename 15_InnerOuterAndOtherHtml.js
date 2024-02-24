@@ -243,8 +243,11 @@ let a = setTimeout(function(){
 }, 5000)
 
 let b = prompt("Do you want to run the set time?")
+if ("n" == b) {
+    clearTimeout(a)
+}
 
-clearTimeout(a)
+//clearTimeout(a)
 console.log(a)
 
 
