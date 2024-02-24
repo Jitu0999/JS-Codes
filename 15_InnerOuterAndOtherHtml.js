@@ -242,7 +242,7 @@ const sum = (a, b, c) => {
     console.log("Yes I am running " + (a+b+c))
     a+b
 }
-
+setTimeout(sum, 1000, 1, 2, 7)
 
 /* 
 let a = setTimeout(function(){
