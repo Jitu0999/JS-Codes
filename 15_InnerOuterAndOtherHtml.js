@@ -240,7 +240,7 @@ document.write("Hello")
 
 const sum = (a, b, c) => {
     console.log("Yes I am running, Sum is : " + (a+b+c))
-    a+b
+    a + b
 }
 setTimeout(sum, 1000, 1, 2, 7)
 
