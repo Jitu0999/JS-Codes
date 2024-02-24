@@ -242,7 +242,8 @@ let a = setTimeout(function(){
     alert("I am inside of Set Timeout")
 }, 5000)
 
-console.log(a);
+clearTimeout(a)
+console.log(a)
 
 
 
