@@ -238,6 +238,9 @@ first.classList.toggle("red")
 // setInterval and setTimeout:-
 document.write("Hello")
 
+
+
+/* 
 let a = setTimeout(function(){
     alert("I am inside of Set Timeout")
 }, 5000)
@@ -249,7 +252,7 @@ if ("n" == b) {
 
 //clearTimeout(a)
 console.log(a)
-
+*/
 
 
 
