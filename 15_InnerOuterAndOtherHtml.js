@@ -238,6 +238,10 @@ first.classList.toggle("red")
 // setInterval and setTimeout:-
 document.write("Hello")
 
+const sum = (a, b, c) => {
+    console.log("Yes I am running " + (a+b+c))
+    a+b
+}
 
 
 /* 
