@@ -242,6 +242,8 @@ let a = setTimeout(function(){
     alert("I am inside of Set Timeout")
 }, 5000)
 
+let b = prompt("Do you want to run the set time?")
+
 clearTimeout(a)
 console.log(a)
 
