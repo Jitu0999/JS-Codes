@@ -244,6 +244,7 @@ const sum = (a, b, c) => {
 }
 setTimeout(sum, 1000, 1, 2, 7)
 
+
 /* 
 let a = setTimeout(function(){
     alert("I am inside of Set Timeout")
