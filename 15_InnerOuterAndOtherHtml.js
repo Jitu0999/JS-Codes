@@ -234,7 +234,7 @@ first.classList.add("red")
 first.classList.remove("red")
 first.classList.contains("red")
 first.classList.toggle("red")
-*/
+
 // setInterval and setTimeout:-
 document.write("Hello")
 
@@ -243,11 +243,13 @@ const sum = (a, b, c) => {
     a + b
 }
 setTimeout(sum, 1000, 1, 2, 7)
+
+
 //setInterval(function() {
 //   alert("Set Interval.")
 //}, 8000)
 
-/* 
+ 
 let a = setTimeout(function(){
     alert("I am inside of Set Timeout")
 }, 5000)
