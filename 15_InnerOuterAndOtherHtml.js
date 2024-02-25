@@ -243,9 +243,9 @@ const sum = (a, b, c) => {
     a + b
 }
 setTimeout(sum, 1000, 1, 2, 7)
-setInterval(function() {
-    alert("Set Interval.")
-}, 8000)
+//setInterval(function() {
+//   alert("Set Interval.")
+//}, 8000)
 
 /* 
 let a = setTimeout(function(){
